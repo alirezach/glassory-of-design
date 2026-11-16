@@ -28,7 +28,7 @@ button{font:inherit;cursor:pointer}
 
 /* header */
 .top{padding:40px clamp(16px,4vw,56px) 12px;display:grid;grid-template-columns:1fr auto;gap:24px;align-items:end}
-.brand h1{font-family:var(--display);font-weight:400;font-size:clamp(48px,8vw,112px);line-height:.9;margin:0;letter-spacing:-.01em}
+.brand h1{font-family:var(--display);font-weight:400;font-size:clamp(40px,5.4vw,84px);line-height:.9;margin:0;letter-spacing:-.01em}
 .brand h1 .latin{display:block;font-family:var(--mono);font-size:clamp(14px,1.4vw,18px);letter-spacing:.32em;text-transform:uppercase;color:var(--ink-soft);margin-top:14px;direction:ltr;text-align:right}
 .brand p{margin:12px 0 0;max-width:46ch;color:var(--ink-soft)}
 .counter{font-family:var(--mono);text-align:left;color:var(--ink-soft);font-size:14px}
@@ -119,8 +119,8 @@ dialog::backdrop{background:oklch(0.25 0.02 250 / .55);backdrop-filter:blur(3px)
 .tray .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .tray button{background:var(--grease);color:var(--grease-ink);border:0;border-radius:4px;padding:8px 14px}
 .tray .ghost{background:none;color:var(--mount);text-decoration:underline;padding:8px 4px}
-.toast{position:fixed;top:18px;left:50%;transform:translate(-50%,-140%);background:var(--ink);color:var(--mount);padding:8px 18px;border-radius:999px;z-index:20;transition:transform .3s}
-.toast.on{transform:translate(-50%,0)}
+.toast{position:fixed;top:0;left:50%;transform:translate(-50%,-110%);opacity:0;visibility:hidden;background:var(--ink);color:var(--mount);padding:8px 18px;border-radius:999px;z-index:20;transition:transform .3s,opacity .3s,visibility .3s}
+.toast.on{transform:translate(-50%,18px);opacity:1;visibility:visible}
 
 /* guides */
 .page{padding:28px clamp(16px,4vw,56px) 120px;max-width:1100px}
