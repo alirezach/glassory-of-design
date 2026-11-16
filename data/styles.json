@@ -1,0 +1,6140 @@
+[
+ {
+  "id": "ilkhanid-tabriz-miniature",
+  "name_fa": "نگارگری ایلخانی تبریز",
+  "name_en": "Ilkhanid / early Tabriz miniature",
+  "keyword": "Ilkhanid Persian miniature",
+  "family": "persian-painting",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial"
+  ],
+  "image": "images/styles/ilkhanid-tabriz-miniature.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "shiraz-miniature",
+  "name_fa": "مکتب نگارگری شیراز",
+  "name_en": "Shiraz miniature school",
+  "keyword": "Shiraz miniature",
+  "family": "persian-painting",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "children",
+   "editorial"
+  ],
+  "image": "images/styles/shiraz-miniature.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "herat-timurid-miniature",
+  "name_fa": "نگارگری تیموری هرات",
+  "name_en": "Herat Timurid miniature",
+  "keyword": "Herat Timurid miniature",
+  "family": "persian-painting",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/herat-timurid-miniature.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "safavid-tabriz-miniature",
+  "name_fa": "نگارگری صفوی تبریز",
+  "name_en": "Safavid Tabriz miniature",
+  "keyword": "Safavid Tabriz miniature",
+  "family": "persian-painting",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/safavid-tabriz-miniature.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "isfahan-reza-abbasi",
+  "name_fa": "مکتب اصفهان، شیوهٔ رضا عباسی",
+  "name_en": "Isfahan school / Reza Abbasi line",
+  "keyword": "Isfahan school painting",
+  "family": "persian-painting",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "album",
+   "editorial",
+   "book-cover"
+  ],
+  "image": "images/styles/isfahan-reza-abbasi.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "bukhara-miniature",
+  "name_fa": "مکتب نگارگری بخارا",
+  "name_en": "Bukhara school miniature",
+  "keyword": "Bukhara miniature",
+  "family": "persian-painting",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/bukhara-miniature.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "qajar-court-painting",
+  "name_fa": "نقاشی درباری قاجار",
+  "name_en": "Qajar court painting",
+  "keyword": "Qajar court painting",
+  "family": "persian-painting",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "editorial",
+   "concept",
+   "film"
+  ],
+  "image": "images/styles/qajar-court-painting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "qajar-lithograph-illustration",
+  "name_fa": "تصویرسازی چاپ‌سنگی قاجار",
+  "name_en": "Qajar lithographed book illustration",
+  "keyword": "Qajar lithograph",
+  "family": "persian-painting",
+  "form": [
+   "print",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "poster"
+  ],
+  "image": "images/styles/qajar-lithograph-illustration.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "coffeehouse-painting",
+  "name_fa": "نقاشی قهوه‌خانه‌ای",
+  "name_en": "Coffeehouse painting",
+  "keyword": "Iranian coffeehouse painting",
+  "family": "persian-painting",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "poster",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/coffeehouse-painting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "pardeh-khani",
+  "name_fa": "نقاشی پرده‌خوانی",
+  "name_en": "Pardeh-khani curtain painting",
+  "keyword": "pardeh-khani painting",
+  "family": "persian-painting",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "concept",
+   "film",
+   "poster"
+  ],
+  "image": "images/styles/pardeh-khani.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "saqqakhaneh",
+  "name_fa": "جنبش سقاخانه",
+  "name_en": "Saqqakhaneh movement",
+  "keyword": "Saqqakhaneh painting",
+  "family": "persian-painting",
+  "form": [
+   "painting",
+   "pattern"
+  ],
+  "needs": [
+   "album",
+   "poster",
+   "concept"
+  ],
+  "image": "images/styles/saqqakhaneh.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "tazhib-illumination",
+  "name_fa": "تذهیب ایرانی",
+  "name_en": "Persian manuscript illumination (tazhib)",
+  "keyword": "Persian tazhib",
+  "family": "persian-painting",
+  "form": [
+   "pattern",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "branding",
+   "packaging"
+  ],
+  "image": "images/styles/tazhib-illumination.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "lacquer-papier-mache",
+  "name_fa": "نقاشی لاکی ایرانی",
+  "name_en": "Persian lacquer and papier-mâché painting",
+  "keyword": "Persian lacquer painting",
+  "family": "persian-painting",
+  "form": [
+   "painting",
+   "craft"
+  ],
+  "needs": [
+   "ads-product",
+   "packaging",
+   "concept"
+  ],
+  "image": "images/styles/lacquer-papier-mache.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "nastaliq",
+  "name_fa": "خط نستعلیق",
+  "name_en": "Nasta‘liq calligraphy",
+  "keyword": "Persian Nastaliq",
+  "family": "persian-calligraphy",
+  "form": [
+   "lettering",
+   "drawing"
+  ],
+  "needs": [
+   "poster",
+   "book-cover",
+   "album"
+  ],
+  "image": "images/styles/nastaliq.webp",
+  "kind": "ai",
+  "prompt": "A refined poetry-night poster in Tehran featuring authentic Persian Nasta’liq calligraphy, exact short title text «شب شعر», graceful sloping rhythm, black ink on warm paper, balanced white space, no other text.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "shekasteh-nastaliq",
+  "name_fa": "خط شکسته‌نستعلیق",
+  "name_en": "Shekasteh-Nasta‘liq calligraphy",
+  "keyword": "Shekasteh Nastaliq",
+  "family": "persian-calligraphy",
+  "form": [
+   "lettering",
+   "drawing"
+  ],
+  "needs": [
+   "poster",
+   "album",
+   "social"
+  ],
+  "image": "images/styles/shekasteh-nastaliq.webp",
+  "kind": "ai",
+  "prompt": "A poetry-reading poster for a spring evening in Shiraz, expressive Persian Shekasteh-Nasta’liq calligraphy, exact short title text «شعر و باران», swift interlaced strokes, cream paper with restrained turquoise accents, no other text.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "naskh",
+  "name_fa": "خط نسخ ایرانی",
+  "name_en": "Persian Naskh script",
+  "keyword": "Persian Naskh",
+  "family": "persian-calligraphy",
+  "form": [
+   "lettering",
+   "print"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "poster"
+  ],
+  "image": "images/styles/naskh.webp",
+  "kind": "ai",
+  "prompt": "A Tehran book-fair poster using clear Persian Naskh lettering, exact short title text «کتاب تهران», measured rounded forms, black ink with small red accents on warm paper, generous margins, no other text.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "thuluth",
+  "name_fa": "خط ثلث ایرانی",
+  "name_en": "Thuluth calligraphy in Iranian contexts",
+  "keyword": "Persian Thuluth",
+  "family": "persian-calligraphy",
+  "form": [
+   "lettering",
+   "pattern"
+  ],
+  "needs": [
+   "poster",
+   "branding",
+   "concept"
+  ],
+  "image": "images/styles/thuluth.webp",
+  "kind": "ai",
+  "prompt": "A poster for an Iranian tile-art exhibition in Isfahan, monumental Persian-context Thuluth lettering, exact short title text «کتیبه», tall sweeping forms in turquoise and cobalt on a glazed tile ground, no other text.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "kufic-bannaei",
+  "name_fa": "کوفی معقلی و بنّایی",
+  "name_en": "Kufic, Ma‘qeli / Banna’i square script",
+  "keyword": "square Kufic",
+  "family": "persian-calligraphy",
+  "form": [
+   "lettering",
+   "pattern"
+  ],
+  "needs": [
+   "branding",
+   "packaging",
+   "concept"
+  ],
+  "image": "images/styles/kufic-bannaei.webp",
+  "kind": "ai",
+  "prompt": "A poster for a Yazd geometric-tile exhibition, Iranian square Kufic banna’i lettering, exact short title text «کاشی», rectilinear grid and interlocking modules in turquoise and cobalt, clean architectural composition, no other text.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "siyah-mashq",
+  "name_fa": "سیاه‌مشق",
+  "name_en": "Siyah-mashq practice sheet",
+  "keyword": "siyah-mashq",
+  "family": "persian-calligraphy",
+  "form": [
+   "lettering",
+   "drawing"
+  ],
+  "needs": [
+   "poster",
+   "album",
+   "book-cover"
+  ],
+  "image": "images/styles/siyah-mashq.webp",
+  "kind": "ai",
+  "prompt": "A Persian poetry-album cover built around a siyah-mashq calligraphy sheet, repeated Nasta’liq gestures forming a dense ink field, exact short title text «شعر», reed-pen texture, controlled white gaps, handmade cream paper.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "calligraffiti-naqashi-khat",
+  "name_fa": "خط‌نقاشی و کالیگرافیتی فارسی",
+  "name_en": "Persian calligraffiti / Naqashi-khat",
+  "keyword": "Persian calligraffiti",
+  "family": "persian-calligraphy",
+  "form": [
+   "lettering",
+   "painting"
+  ],
+  "needs": [
+   "poster",
+   "album",
+   "social"
+  ],
+  "image": "images/styles/calligraffiti-naqashi-khat.webp",
+  "kind": "ai",
+  "prompt": "A contemporary gallery poster for a Persian lettering exhibition in Tehran, abstract calligraffiti and naqashi-khat, exact short title text «خط نو», layered gestural ink and acrylic, expressive Nasta’liq-derived curves, warm paper, no other text.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "persian-display-kinetic-type",
+  "name_fa": "تایپوگرافی نمایشی و جنبشی فارسی",
+  "name_en": "Persian display and kinetic lettering",
+  "keyword": "Persian kinetic typography",
+  "family": "persian-calligraphy",
+  "form": [
+   "lettering",
+   "motion"
+  ],
+  "needs": [
+   "poster",
+   "branding",
+   "short-video"
+  ],
+  "image": "images/styles/persian-display-kinetic-type.webp",
+  "kind": "ai",
+  "prompt": "A short title animation in which Persian lettering forms the exact word «بهار», strokes unfolding and settling over a warm paper background, close straight-on camera, soft natural side lighting, elegant Persian kinetic typography with clear spacing, Audio: a brief soft brush sound and gentle ambient tone, no speech.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "girih",
+  "name_fa": "گره‌سازی هندسی",
+  "name_en": "Girih geometric strapwork",
+  "keyword": "Persian girih",
+  "family": "persian-pattern",
+  "form": [
+   "pattern",
+   "craft"
+  ],
+  "needs": [
+   "packaging",
+   "branding",
+   "concept"
+  ],
+  "image": "images/styles/girih.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "muqarnas",
+  "name_fa": "مقرنس ایرانی",
+  "name_en": "Muqarnas Persian vaulting",
+  "keyword": "Persian muqarnas",
+  "family": "persian-pattern",
+  "form": [
+   "3d",
+   "pattern"
+  ],
+  "needs": [
+   "concept",
+   "moodboard",
+   "film"
+  ],
+  "image": "images/styles/muqarnas.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "haft-rang-tilework",
+  "name_fa": "کاشی هفت‌رنگ",
+  "name_en": "Haft-rang polychrome tilework",
+  "keyword": "haft-rang tilework",
+  "family": "persian-pattern",
+  "form": [
+   "pattern",
+   "craft"
+  ],
+  "needs": [
+   "packaging",
+   "branding",
+   "concept"
+  ],
+  "image": "images/styles/haft-rang-tilework.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "moarraq-tile-mosaic",
+  "name_fa": "کاشی معرّق",
+  "name_en": "Mo‘arraq cut-tile mosaic",
+  "keyword": "Persian moarraq mosaic",
+  "family": "persian-pattern",
+  "form": [
+   "pattern",
+   "craft"
+  ],
+  "needs": [
+   "packaging",
+   "concept",
+   "moodboard"
+  ],
+  "image": "images/styles/moarraq-tile-mosaic.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "ayeneh-kari",
+  "name_fa": "آینه‌کاری",
+  "name_en": "Ayeneh-kari mirror mosaic",
+  "keyword": "ayeneh-kari mirrorwork",
+  "family": "persian-pattern",
+  "form": [
+   "craft",
+   "light-color"
+  ],
+  "needs": [
+   "ads-product",
+   "moodboard",
+   "concept"
+  ],
+  "image": "images/styles/ayeneh-kari.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "persian-carpet-medallion",
+  "name_fa": "ترنج قالی ایرانی",
+  "name_en": "Persian medallion carpet design",
+  "keyword": "Persian medallion carpet",
+  "family": "persian-pattern",
+  "form": [
+   "pattern",
+   "craft"
+  ],
+  "needs": [
+   "packaging",
+   "branding",
+   "editorial"
+  ],
+  "image": "images/styles/persian-carpet-medallion.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "boteh-paisley",
+  "name_fa": "بته‌جقه",
+  "name_en": "Boteh / Persian paisley motif",
+  "keyword": "boteh motif",
+  "family": "persian-pattern",
+  "form": [
+   "pattern",
+   "drawing"
+  ],
+  "needs": [
+   "ads-product",
+   "packaging",
+   "editorial"
+  ],
+  "image": "images/styles/boteh-paisley.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "hunting-carpet",
+  "name_fa": "قالی شکار ایرانی",
+  "name_en": "Persian hunting carpet",
+  "keyword": "Persian hunting carpet",
+  "family": "persian-pattern",
+  "form": [
+   "pattern",
+   "craft"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/hunting-carpet.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "gabbeh",
+  "name_fa": "گبه",
+  "name_en": "Gabbeh rug",
+  "keyword": "gabbeh rug",
+  "family": "persian-pattern",
+  "form": [
+   "pattern",
+   "craft"
+  ],
+  "needs": [
+   "packaging",
+   "editorial",
+   "moodboard"
+  ],
+  "image": "images/styles/gabbeh.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "kilim",
+  "name_fa": "گلیم ایرانی",
+  "name_en": "Persian kilim flatweave",
+  "keyword": "Persian kilim",
+  "family": "persian-pattern",
+  "form": [
+   "pattern",
+   "craft"
+  ],
+  "needs": [
+   "packaging",
+   "branding",
+   "concept"
+  ],
+  "image": "images/styles/kilim.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "termeh",
+  "name_fa": "ترمه",
+  "name_en": "Termeh luxury woven textile",
+  "keyword": "termeh textile",
+  "family": "persian-pattern",
+  "form": [
+   "pattern",
+   "craft"
+  ],
+  "needs": [
+   "ads-product",
+   "packaging",
+   "branding"
+  ],
+  "image": "images/styles/termeh.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "ghalamkar",
+  "name_fa": "قلمکار",
+  "name_en": "Ghalamkar block-printed textile",
+  "keyword": "ghalamkar print",
+  "family": "persian-pattern",
+  "form": [
+   "print",
+   "pattern"
+  ],
+  "needs": [
+   "packaging",
+   "editorial",
+   "ads-product"
+  ],
+  "image": "images/styles/ghalamkar.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "khatamkari",
+  "name_fa": "خاتم‌کاری",
+  "name_en": "Khatamkari marquetry",
+  "keyword": "khatamkari",
+  "family": "persian-pattern",
+  "form": [
+   "craft",
+   "pattern"
+  ],
+  "needs": [
+   "branding",
+   "packaging",
+   "ads-product"
+  ],
+  "image": "images/styles/khatamkari.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "persepolis-relief",
+  "name_fa": "نقش‌برجستهٔ تخت‌جمشید",
+  "name_en": "Achaemenid Persepolis relief",
+  "keyword": "Persepolis relief",
+  "family": "persian-pattern",
+  "form": [
+   "craft",
+   "drawing"
+  ],
+  "needs": [
+   "editorial",
+   "documentary",
+   "concept"
+  ],
+  "image": "images/styles/persepolis-relief.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "sasanian-silver-motif",
+  "name_fa": "نقش‌مایه‌های ظروف سیمین ساسانی",
+  "name_en": "Sasanian silver vessel motif",
+  "keyword": "Sasanian silver motifs",
+  "family": "persian-pattern",
+  "form": [
+   "craft",
+   "pattern"
+  ],
+  "needs": [
+   "ads-product",
+   "concept",
+   "editorial"
+  ],
+  "image": "images/styles/sasanian-silver-motif.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "yazd-windcatcher",
+  "name_fa": "معماری کویری یزد و بادگیر",
+  "name_en": "Yazd desert architecture and windcatchers",
+  "keyword": "Yazd windcatcher architecture",
+  "family": "persian-pattern",
+  "form": [
+   "3d",
+   "pattern"
+  ],
+  "needs": [
+   "concept",
+   "moodboard",
+   "film"
+  ],
+  "image": "images/styles/yazd-windcatcher.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "isfahan-dome-iwan",
+  "name_fa": "گنبد و ایوان صفوی اصفهان",
+  "name_en": "Isfahan Safavid dome and iwan architecture",
+  "keyword": "Isfahan Safavid architecture",
+  "family": "persian-pattern",
+  "form": [
+   "3d",
+   "pattern"
+  ],
+  "needs": [
+   "concept",
+   "moodboard",
+   "film"
+  ],
+  "image": "images/styles/isfahan-dome-iwan.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "kashan-courtyard-house",
+  "name_fa": "خانهٔ حیاط‌دار کاشان",
+  "name_en": "Kashan courtyard house",
+  "keyword": "Kashan courtyard house",
+  "family": "persian-pattern",
+  "form": [
+   "3d",
+   "photo"
+  ],
+  "needs": [
+   "concept",
+   "moodboard",
+   "film"
+  ],
+  "image": "images/styles/kashan-courtyard-house.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "persian-charbagh",
+  "name_fa": "چهارباغ ایرانی",
+  "name_en": "Persian chaharbagh garden",
+  "keyword": "Persian chaharbagh garden",
+  "family": "persian-pattern",
+  "form": [
+   "pattern",
+   "3d"
+  ],
+  "needs": [
+   "concept",
+   "moodboard",
+   "film"
+  ],
+  "image": "images/styles/persian-charbagh.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "tehran-poster",
+  "name_fa": "سنت پوستر تهران و گرافیک نوین ایران",
+  "name_en": "Tehran poster tradition / Iranian modern graphic design",
+  "keyword": "Tehran poster design",
+  "family": "persian-graphic",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "editorial",
+   "social"
+  ],
+  "image": "images/styles/tehran-poster.webp",
+  "kind": "ai",
+  "prompt": "A contemporary Iranian graphic-design exhibition poster in the Tehran poster tradition, exact Persian title text «گرافیک تهران», bold modernist layout, screen-print texture, restrained colors, clear blank space around the title, no other text.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "revolutionary-war-poster",
+  "name_fa": "پوسترهای انقلاب ۱۳۵۷ و جنگ ایران و عراق",
+  "name_en": "1979 Revolution and Iran–Iraq War poster art",
+  "keyword": "Iranian revolutionary poster",
+  "family": "persian-graphic",
+  "form": [
+   "layout",
+   "drawing"
+  ],
+  "needs": [
+   "poster",
+   "documentary",
+   "editorial"
+  ],
+  "image": "images/styles/revolutionary-war-poster.webp",
+  "kind": "ai",
+  "prompt": "A museum poster for an exhibition on Iranian revolutionary and wartime poster design, exact Persian title text «یاد و پایداری», historically grounded Iranian graphic composition, bold screen-print shapes and limited colors, commemorative rather than celebratory, no other text.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "iranian-modern-graphic",
+  "name_fa": "گرافیک مدرن و تصویرسازی ایرانی",
+  "name_en": "Iranian modernist illustration and poster",
+  "keyword": "Iranian modernist graphic design",
+  "family": "persian-graphic",
+  "form": [
+   "layout",
+   "drawing"
+  ],
+  "needs": [
+   "poster",
+   "editorial",
+   "children"
+  ],
+  "image": "images/styles/iranian-modern-graphic.webp",
+  "kind": "ai",
+  "prompt": "A poster for a contemporary Iranian illustration exhibition in Tehran, exact Persian title text «تصویر نو», modernist Iranian graphic design, playful hand-drawn forms, flat color blocks, balanced editorial layout, no other text.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "kanoon-illustration-animation",
+  "name_fa": "تصویرسازی و پویانمایی کانون",
+  "name_en": "Kanoon children’s illustration and animation",
+  "keyword": "Kanoon animation",
+  "family": "persian-graphic",
+  "form": [
+   "drawing",
+   "motion"
+  ],
+  "needs": [
+   "children",
+   "book-cover",
+   "short-video"
+  ],
+  "image": "images/styles/kanoon-illustration-animation.webp",
+  "kind": "ai",
+  "prompt": "A short animated scene of a curious child following a paper kite through a Tehran neighborhood at dusk, gentle tracking camera at child height, warm window light and soft blue twilight, hand-painted Iranian children’s-book illustration with simple 2D animation, Audio: light footsteps, a soft breeze, and distant neighborhood sounds, no dialogue.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "iranian-new-wave-realism",
+  "name_fa": "واقع‌گرایی موج نوی سینمای ایران",
+  "name_en": "Iranian art-cinema realism",
+  "keyword": "Iranian art-cinema realism",
+  "family": "persian-graphic",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "short-video"
+  ],
+  "image": "images/styles/iranian-new-wave-realism.webp",
+  "kind": "ai",
+  "prompt": "A young woman waits for a bus and watches the rain begin on a quiet Tehran street, restrained handheld camera at eye level, natural overcast light and muted colors, observational Iranian art-cinema realism, unhurried framing, Audio: passing cars, rain, and distant street ambience, no music.",
+  "note_fa": "عنوان فارسی را پس از تولید، در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "art-nouveau-poster",
+  "name_fa": "پوستر آرت نوو",
+  "name_en": "Art Nouveau poster",
+  "keyword": "Art Nouveau poster",
+  "family": "poster",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "editorial",
+   "packaging"
+  ],
+  "image": "images/styles/art-nouveau-poster.webp",
+  "kind": "ai",
+  "prompt": "Create an Art Nouveau poster for a spring music evening in Shiraz, with a musician framed by flowing floral forms, flat ochre and teal lithographic colors, and the exact title 'SPRING SONG'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "art-deco-travel-poster",
+  "name_fa": "پوستر سفر آرت دکو",
+  "name_en": "Art Deco travel poster",
+  "keyword": "Art Deco travel poster",
+  "family": "poster",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "ads-product",
+   "packaging"
+  ],
+  "image": "images/styles/art-deco-travel-poster.webp",
+  "kind": "ai",
+  "prompt": "Create an Art Deco travel poster for a train journey through the Alborz mountains, with stepped peaks, a gold sunburst, a streamlined train, navy and coral colors, and the exact title 'NORTHBOUND'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "belle-epoque-lithographic-poster",
+  "name_fa": "پوستر لیتوگرافی بل اپوک",
+  "name_en": "Belle Époque lithographic poster",
+  "keyword": "Belle Époque lithographic poster",
+  "family": "poster",
+  "form": [
+   "print",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "branding",
+   "packaging"
+  ],
+  "image": "images/styles/belle-epoque-lithographic-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a Belle Époque café poster for a music night in Tehran, with a lively dancer, layered color lithography, decorative lettering, and the exact title 'CAFE TONIGHT'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "wpa-poster",
+  "name_fa": "پوستر WPA",
+  "name_en": "WPA poster",
+  "keyword": "WPA poster",
+  "family": "poster",
+  "form": [
+   "print",
+   "layout"
+  ],
+  "needs": [
+   "poster",
+   "infographic",
+   "editorial"
+  ],
+  "image": "images/styles/wpa-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a WPA-style public library poster for a reading program in Tehran, with a simplified reader silhouette, cream, navy, and vermilion spot colors, bold sans-serif type, and the exact title 'READ TOGETHER'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "wwii-propaganda-poster",
+  "name_fa": "پوستر تبلیغاتی جنگ جهانی دوم",
+  "name_en": "World War II propaganda poster",
+  "keyword": "World War II poster",
+  "family": "poster",
+  "form": [
+   "print",
+   "layout"
+  ],
+  "needs": [
+   "poster",
+   "editorial",
+   "infographic"
+  ],
+  "image": "images/styles/wwii-propaganda-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a historically contextualized World War II home-front museum poster about civilian resource conservation, with a worker silhouette, navy, red, and cream colors, bold condensed lettering, and the exact title 'SAVE RESOURCES'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "polish-poster-school",
+  "name_fa": "مکتب پوستر لهستان",
+  "name_en": "Polish Poster School",
+  "keyword": "Polish Poster School",
+  "family": "poster",
+  "form": [
+   "painting",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "book-cover"
+  ],
+  "image": "images/styles/polish-poster-school.webp",
+  "kind": "ai",
+  "prompt": "Create a Polish Poster School theater poster for a production in Tehran, showing an oversized red glove holding a tiny moon, painterly texture, expressive hand lettering, and the exact title 'THE MOON'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "cuban-ospaaal-poster",
+  "name_fa": "پوستر کوبایی OSPAAAL",
+  "name_en": "Cuban OSPAAAL poster",
+  "keyword": "Cuban OSPAAAL poster",
+  "family": "poster",
+  "form": [
+   "print",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "social",
+   "documentary"
+  ],
+  "image": "images/styles/cuban-ospaaal-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a historically contextualized Cuban OSPAAAL solidarity poster about international cooperation, with a raised hand transforming into a dove, two-color screen printing, hand-drawn type, and the exact title 'SOLIDARITY'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "japanese-modernist-poster",
+  "name_fa": "پوستر مدرنیستی ژاپنی",
+  "name_en": "Japanese modernist poster",
+  "keyword": "Japanese modernist poster",
+  "family": "poster",
+  "form": [
+   "layout",
+   "photo"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "book-cover"
+  ],
+  "image": "images/styles/japanese-modernist-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a Japanese modernist poster for a contemporary film festival in Shiraz, with a red circle, black geometric silhouette, sparse lettering, generous white space, and the exact title 'NAMI'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "psychedelic-60s-concert-poster",
+  "name_fa": "پوستر کنسرت سایکدلیک دههٔ ۱۹۶۰",
+  "name_en": "Psychedelic 1960s concert poster",
+  "keyword": "1960s psychedelic concert poster",
+  "family": "poster",
+  "form": [
+   "lettering",
+   "pattern"
+  ],
+  "needs": [
+   "poster",
+   "album",
+   "music-video"
+  ],
+  "image": "images/styles/psychedelic-60s-concert-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a 1960s psychedelic concert poster for a live music night in Tehran, with indigo, orange, and magenta swirls, dense organic ornament, a dancing silhouette, and the exact title 'ECHO'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "mid-century-symbolic-film-poster",
+  "name_fa": "پوستر نمادین سینمایی میانهٔ قرن",
+  "name_en": "Mid-century symbolic film poster",
+  "keyword": "mid-century symbolic film poster",
+  "family": "poster",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "book-cover"
+  ],
+  "image": "images/styles/mid-century-symbolic-film-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a mid-century symbolic film poster for a fictional mystery film set in Tehran, with one red spiral cutting through a black eye, a flat cream background, spare geometric type, and the exact title 'THE SPIRAL'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "blaxploitation-film-poster",
+  "name_fa": "پوستر بلکسپلویتیشن",
+  "name_en": "Blaxploitation / 1970s exploitation film poster",
+  "keyword": "Blaxploitation film poster",
+  "family": "poster",
+  "form": [
+   "painting",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "album"
+  ],
+  "image": "images/styles/blaxploitation-film-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a fictional 1970s urban-action film poster, with a confident hero in a flared coat, saturated orange and violet, painted motion streaks, and the exact title 'FIRE STREET'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "hammer-horror-pulp-poster",
+  "name_fa": "پوستر ترسناک پالپی همر",
+  "name_en": "Hammer horror / pulp horror poster",
+  "keyword": "Hammer horror poster",
+  "family": "poster",
+  "form": [
+   "painting",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "book-cover"
+  ],
+  "image": "images/styles/hammer-horror-pulp-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a vintage Hammer horror pulp poster for a fictional film, with a shadowy manor, a green-eyed creature, a blood-red moon, distressed cream lettering, and the exact title 'NIGHT HOUSE'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "hollywood-painted-movie-poster",
+  "name_fa": "پوستر نقاشی‌شدهٔ هالیوودی",
+  "name_en": "Hollywood painted movie poster",
+  "keyword": "painted Hollywood movie poster",
+  "family": "poster",
+  "form": [
+   "painting",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "album"
+  ],
+  "image": "images/styles/hollywood-painted-movie-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a painted Hollywood adventure movie poster for a fictional film, with three expressive faces, a cliffside chase, warm airbrush highlights, stacked title lettering, and the exact title 'ROAR'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "acid-graphics-rave-flyer",
+  "name_fa": "فلایر ریوی گرافیک اسیدی",
+  "name_en": "Acid graphics / rave flyer",
+  "keyword": "acid house rave flyer",
+  "family": "poster",
+  "form": [
+   "lettering",
+   "light-color"
+  ],
+  "needs": [
+   "poster",
+   "music-video",
+   "social"
+  ],
+  "image": "images/styles/acid-graphics-rave-flyer.webp",
+  "kind": "ai",
+  "prompt": "Create an acid-house rave flyer for an electronic music night in Tehran, with fluorescent lime and magenta, a warped smiley symbol, airbrushed glow, bending type, and the exact title 'BEAT'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "screen-print-gig-poster",
+  "name_fa": "پوستر اجرای چاپ سیلک",
+  "name_en": "Screen-print gig poster",
+  "keyword": "screen-print gig poster",
+  "family": "poster",
+  "form": [
+   "print",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "album",
+   "social"
+  ],
+  "image": "images/styles/screen-print-gig-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a two-ink screen-print gig poster for a live band in Tehran, with a hand-drawn thunderbird, rough ink edges, black and fluorescent orange, and the exact title 'LIVE'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "minimalist-movie-poster",
+  "name_fa": "پوستر مینیمال سینمایی",
+  "name_en": "Minimalist movie poster",
+  "keyword": "minimalist movie poster",
+  "family": "poster",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "book-cover"
+  ],
+  "image": "images/styles/minimalist-movie-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a minimalist movie poster for a fictional film set beside the Caspian Sea, with one tiny red door in a vast cream field, precise black type, generous negative space, and the exact title 'THE DOOR'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "chinese-propaganda-poster",
+  "name_fa": "پوستر تبلیغاتی چینی",
+  "name_en": "Chinese propaganda poster",
+  "keyword": "Chinese historical poster",
+  "family": "poster",
+  "form": [
+   "print",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "infographic",
+   "book-cover"
+  ],
+  "image": "images/styles/chinese-propaganda-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a historically contextualized Chinese poster for a museum exhibition about public tree planting, with workers beneath a red sun, red and yellow print colors, historically appropriate Chinese lettering, and the exact title 'GROW TOGETHER'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "soviet-space-age-poster",
+  "name_fa": "پوستر فضایی شوروی",
+  "name_en": "Soviet space-age poster",
+  "keyword": "Soviet space-age poster",
+  "family": "poster",
+  "form": [
+   "print",
+   "layout"
+  ],
+  "needs": [
+   "poster",
+   "infographic",
+   "editorial"
+  ],
+  "image": "images/styles/soviet-space-age-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a Soviet space-age poster for a fictional science exhibition in Tehran, with an anonymous cosmonaut above orbital arcs, deep blue, red, and gold, spacecraft geometry, Cyrillic lettering, and the exact title 'ORBIT'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "national-park-wpa-poster",
+  "name_fa": "پوستر پارک ملی به سبک WPA",
+  "name_en": "National Park WPA poster",
+  "keyword": "WPA national park poster",
+  "family": "poster",
+  "form": [
+   "print",
+   "painting"
+  ],
+  "needs": [
+   "poster",
+   "ads-product",
+   "infographic"
+  ],
+  "image": "images/styles/national-park-wpa-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a WPA-style national park poster for a fictional protected landscape in northern Iran, with layered Alborz peaks and a tiny hiker, flat screen-print colors, a cream sky, and the exact title 'MOUNTAIN TRAIL'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "bollywood-hand-painted-poster",
+  "name_fa": "پوستر نقاشی‌دستی بالیوودی",
+  "name_en": "Bollywood hand-painted poster",
+  "keyword": "Bollywood hand-painted poster",
+  "family": "poster",
+  "form": [
+   "painting",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "album"
+  ],
+  "image": "images/styles/bollywood-hand-painted-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a fictional Bollywood musical poster with expressive dancers, magenta, teal, and gold, hand-painted portraits, ornate Devanagari-inspired title treatment, and the exact title 'RANG'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "ghanaian-hand-painted-movie-poster",
+  "name_fa": "پوستر سینمایی نقاشی‌دستی غنایی",
+  "name_en": "Ghanaian hand-painted movie poster",
+  "keyword": "Ghanaian hand-painted movie poster",
+  "family": "poster",
+  "form": [
+   "painting",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "album"
+  ],
+  "image": "images/styles/ghanaian-hand-painted-movie-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a fictional Ghanaian mobile-cinema poster painted on stitched flour-sack canvas, with oversized figures, saturated yellow, red, and blue, fantastical montage, and the exact title 'FURY'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "lucha-libre-mexican-poster",
+  "name_fa": "پوستر کشتی لوچا لیبره",
+  "name_en": "Lucha libre / Mexican wrestling poster",
+  "keyword": "lucha libre poster",
+  "family": "poster",
+  "form": [
+   "lettering",
+   "drawing"
+  ],
+  "needs": [
+   "poster",
+   "ads-product",
+   "branding"
+  ],
+  "image": "images/styles/lucha-libre-mexican-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a fictional lucha libre event poster with a masked wrestler in a flying pose, red, blue, and yellow, starbursts, bold Spanish display lettering, rough print texture, and the exact title 'LUCHA'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "thai-film-poster",
+  "name_fa": "پوستر سینمایی تایلندی",
+  "name_en": "Thai film poster",
+  "keyword": "Thai film poster",
+  "family": "poster",
+  "form": [
+   "painting",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "book-cover"
+  ],
+  "image": "images/styles/thai-film-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a fictional Thai adventure film poster with painted heroes crossing a jungle temple, turquoise, orange, and gold, ornate rays, Thai lettering, and the exact title 'JUNGLE'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "turkish-yesilcam-poster",
+  "name_fa": "پوستر سینمایی یشیل‌چام",
+  "name_en": "Turkish Yeşilçam film poster",
+  "keyword": "Yeşilçam film poster",
+  "family": "poster",
+  "form": [
+   "painting",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "album"
+  ],
+  "image": "images/styles/turkish-yesilcam-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a fictional Yeşilçam melodrama poster with painted faces and a rain-soaked city, red and blue airbrush tones, expressive Turkish lettering, and the exact title 'ASK'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "mod-1960s-poster",
+  "name_fa": "پوستر مود دههٔ ۱۹۶۰",
+  "name_en": "Mod 1960s poster",
+  "keyword": "1960s mod poster",
+  "family": "poster",
+  "form": [
+   "pattern",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "social",
+   "album"
+  ],
+  "image": "images/styles/mod-1960s-poster.webp",
+  "kind": "ai",
+  "prompt": "Create a 1960s mod dance poster for an event in Tehran, with concentric black-and-white circles, a coral silhouette, geometric sans-serif lettering, and the exact title 'GO'.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "grunge-deconstructed-typography",
+  "name_fa": "تایپوگرافی گرانج",
+  "name_en": "Grunge / deconstructed typography",
+  "keyword": "grunge typography",
+  "family": "typography",
+  "form": [
+   "lettering",
+   "print"
+  ],
+  "needs": [
+   "poster",
+   "album",
+   "editorial"
+  ],
+  "image": "images/styles/grunge-deconstructed-typography.webp",
+  "kind": "ai",
+  "prompt": "Design a poster for an independent music magazine, fragmented black grunge lettering, photocopy grain, translucent red overprint, irregular baseline, title ‘VOID’ clearly readable.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "new-wave-typography",
+  "name_fa": "تایپوگرافی موج نو",
+  "name_en": "New Wave typography",
+  "keyword": "New Wave typography",
+  "family": "typography",
+  "form": [
+   "lettering",
+   "layout"
+  ],
+  "needs": [
+   "poster",
+   "album",
+   "editorial"
+  ],
+  "image": "images/styles/new-wave-typography.webp",
+  "kind": "ai",
+  "prompt": "Design a poster for a Tehran underground music night, skewed sans-serif lines, uneven spacing, diagonal rules and transparent overlays, title ‘WAVE’ clearly readable.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "kinetic-typography",
+  "name_fa": "تایپوگرافی جنبشی",
+  "name_en": "Kinetic typography",
+  "keyword": "kinetic typography",
+  "family": "typography",
+  "form": [
+   "lettering",
+   "motion"
+  ],
+  "needs": [
+   "short-video",
+   "music-video",
+   "film"
+  ],
+  "image": "images/styles/kinetic-typography.webp",
+  "kind": "ai",
+  "prompt": "Create a ten-second kinetic title video: the word ‘MOVE’ snaps, stretches and scrolls in rhythm in a black studio space; locked camera, sharp white light with one red accent, bold kinetic typography. Audio: percussive electronic beat, no speech.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "victorian-typographic-poster",
+  "name_fa": "تایپوگرافی ویکتوریایی",
+  "name_en": "Victorian typographic poster",
+  "keyword": "Victorian typography",
+  "family": "typography",
+  "form": [
+   "lettering",
+   "layout"
+  ],
+  "needs": [
+   "poster",
+   "book-cover",
+   "packaging"
+  ],
+  "image": "images/styles/victorian-typographic-poster.webp",
+  "kind": "ai",
+  "prompt": "Design a poster for a theatre performance in Shiraz, ornate Victorian shadow lettering, dense decorative border, black and burgundy ink, symmetrical hierarchy, title ‘SHOW’ clearly readable.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "blackletter-typography",
+  "name_fa": "تایپوگرافی گوتیک",
+  "name_en": "Blackletter typography",
+  "keyword": "blackletter typography",
+  "family": "typography",
+  "form": [
+   "lettering",
+   "layout"
+  ],
+  "needs": [
+   "album",
+   "book-cover",
+   "packaging"
+  ],
+  "image": "images/styles/blackletter-typography.webp",
+  "kind": "ai",
+  "prompt": "Design a poster for a night concert, dense blackletter capitals, black ink on warm cream, an ornamental frame and strong contrast, title ‘NIGHT’ clearly readable, no symbols or insignia.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "brutalist-typography",
+  "name_fa": "تایپوگرافی بروتالیستی",
+  "name_en": "Brutalist typography",
+  "keyword": "brutalist typography",
+  "family": "typography",
+  "form": [
+   "lettering",
+   "layout"
+  ],
+  "needs": [
+   "poster",
+   "social",
+   "editorial"
+  ],
+  "image": "images/styles/brutalist-typography.webp",
+  "kind": "ai",
+  "prompt": "Design a poster for a contemporary art exhibition in Tehran, oversized black letters cropped by the edges, raw monospaced sublabel, stark white ground, title ‘NO’ clearly readable.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "variable-fluid-type",
+  "name_fa": "تایپوگرافی متغیر",
+  "name_en": "Variable / fluid typography",
+  "keyword": "variable typography",
+  "family": "typography",
+  "form": [
+   "lettering",
+   "layout"
+  ],
+  "needs": [
+   "branding",
+   "ui-web",
+   "poster"
+  ],
+  "image": "images/styles/variable-fluid-type.webp",
+  "kind": "ai",
+  "prompt": "Design a poster for a digital design conference, the word ‘FLOW’ shifts from condensed light to wide bold variable sans serif across a blue gradient grid, fluid letterforms, crisp high contrast.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "three-dimensional-chrome-type",
+  "name_fa": "تایپ کروم سه‌بعدی",
+  "name_en": "3D chrome type",
+  "keyword": "3D chrome type",
+  "family": "typography",
+  "form": [
+   "lettering",
+   "3d"
+  ],
+  "needs": [
+   "album",
+   "poster",
+   "social"
+  ],
+  "image": "images/styles/three-dimensional-chrome-type.webp",
+  "kind": "ai",
+  "prompt": "Design a poster for a science-fiction music album, the single word ‘NOVA’ in reflective silver chrome extrusion, blue rim light, deep shadow, black star field, centered composition.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "bubble-type",
+  "name_fa": "تایپ حبابی",
+  "name_en": "Bubble type",
+  "keyword": "bubble lettering",
+  "family": "typography",
+  "form": [
+   "lettering",
+   "layout"
+  ],
+  "needs": [
+   "packaging",
+   "children",
+   "ads-product"
+  ],
+  "image": "images/styles/bubble-type.webp",
+  "kind": "ai",
+  "prompt": "Design a poster for an ice-cream shop, rounded pink and turquoise bubble lettering, thick cream outline and soft highlights, cheerful high contrast, title ‘SWEET’ clearly readable.",
+  "note_fa": "عنوان را کوتاه نگه دارید؛ متن فارسی را بعداً در نرم‌افزار اضافه کنید."
+ },
+ {
+  "id": "mid-century-modern",
+  "name_fa": "مدرنِ میانهٔ قرن",
+  "name_en": "Mid-Century Modern",
+  "keyword": "mid-century modern",
+  "family": "graphic-design",
+  "form": [
+   "drawing",
+   "print"
+  ],
+  "needs": [
+   "moodboard",
+   "editorial",
+   "branding"
+  ],
+  "image": "images/styles/mid-century-modern.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "graphic-brutalism",
+  "name_fa": "بروتالیسم گرافیکی",
+  "name_en": "Graphic Brutalism",
+  "keyword": "graphic brutalism",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "print"
+  ],
+  "needs": [
+   "editorial",
+   "ui-web",
+   "album"
+  ],
+  "image": "images/styles/graphic-brutalism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "japanese-minimalism-ma",
+  "name_fa": "مینیمالیسم ژاپنی (ما)",
+  "name_en": "Japanese Minimalism (Ma)",
+  "keyword": "Japanese minimalism ma",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "print"
+  ],
+  "needs": [
+   "book-cover",
+   "branding",
+   "editorial"
+  ],
+  "image": "images/styles/japanese-minimalism-ma.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "editorial-fashion-layout",
+  "name_fa": "صفحه‌آرایی مجلهٔ مد",
+  "name_en": "Editorial Fashion Layout",
+  "keyword": "fashion editorial layout",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "photo"
+  ],
+  "needs": [
+   "editorial",
+   "branding",
+   "ads-product"
+  ],
+  "image": "images/styles/editorial-fashion-layout.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "plakatstil-sachplakat",
+  "name_fa": "پوستر شیءمحور (زاخ‌پلاکات)",
+  "name_en": "Plakatstil / Sachplakat",
+  "keyword": "Sachplakat",
+  "family": "graphic-design",
+  "form": [
+   "print",
+   "drawing"
+  ],
+  "needs": [
+   "ads-product",
+   "editorial",
+   "packaging"
+  ],
+  "image": "images/styles/plakatstil-sachplakat.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "neubrutalism-digital",
+  "name_fa": "نئوبروتالیسم دیجیتال",
+  "name_en": "Neubrutalism (Digital)",
+  "keyword": "digital neubrutalism",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "ui-web",
+   "social",
+   "moodboard"
+  ],
+  "image": "images/styles/neubrutalism-digital.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "isometric-flat",
+  "name_fa": "ایزومتریک تخت",
+  "name_en": "Isometric Flat",
+  "keyword": "flat isometric illustration",
+  "family": "graphic-design",
+  "form": [
+   "drawing",
+   "layout"
+  ],
+  "needs": [
+   "infographic",
+   "editorial",
+   "ui-web"
+  ],
+  "image": "images/styles/isometric-flat.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "claymorphism",
+  "name_fa": "کلی‌مورفیسم",
+  "name_en": "Claymorphism",
+  "keyword": "claymorphism",
+  "family": "graphic-design",
+  "form": [
+   "3d"
+  ],
+  "needs": [
+   "ui-web",
+   "children",
+   "ads-product"
+  ],
+  "image": "images/styles/claymorphism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "glassmorphism",
+  "name_fa": "گلس‌مورفیسم",
+  "name_en": "Glassmorphism",
+  "keyword": "glassmorphism",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "light-color"
+  ],
+  "needs": [
+   "ui-web",
+   "moodboard",
+   "branding"
+  ],
+  "image": "images/styles/glassmorphism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "bento-grid",
+  "name_fa": "شبکهٔ بنتو",
+  "name_en": "Bento Grid",
+  "keyword": "bento grid",
+  "family": "graphic-design",
+  "form": [
+   "layout"
+  ],
+  "needs": [
+   "ui-web",
+   "branding",
+   "editorial"
+  ],
+  "image": "images/styles/bento-grid.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "skeuomorphism",
+  "name_fa": "اسکیومورفیسم",
+  "name_en": "Skeuomorphism",
+  "keyword": "skeuomorphism",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "3d"
+  ],
+  "needs": [
+   "ui-web",
+   "branding",
+   "concept"
+  ],
+  "image": "images/styles/skeuomorphism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "neumorphism",
+  "name_fa": "نیومورفیسم",
+  "name_en": "Neumorphism",
+  "keyword": "neumorphism",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "light-color"
+  ],
+  "needs": [
+   "ui-web",
+   "moodboard",
+   "concept"
+  ],
+  "image": "images/styles/neumorphism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "web-1-0",
+  "name_fa": "وب ۱٫۰",
+  "name_en": "Web 1.0",
+  "keyword": "Web 1.0",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "ui-web",
+   "social",
+   "moodboard"
+  ],
+  "image": "images/styles/web-1-0.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "hud-fui",
+  "name_fa": "هدآپ و رابط کاربری آینده‌نگر",
+  "name_en": "HUD / FUI",
+  "keyword": "HUD FUI",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "motion"
+  ],
+  "needs": [
+   "ui-web",
+   "concept",
+   "film"
+  ],
+  "image": "images/styles/hud-fui.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "flat-vector-editorial",
+  "name_fa": "تصویرسازی تحریریه با وکتور تخت",
+  "name_en": "Flat Vector Editorial",
+  "keyword": "flat vector editorial",
+  "family": "graphic-design",
+  "form": [
+   "drawing",
+   "layout"
+  ],
+  "needs": [
+   "editorial",
+   "explainer",
+   "social"
+  ],
+  "image": "images/styles/flat-vector-editorial.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "swiss-international-typographic-style",
+  "name_fa": "سبک تایپوگرافیک بین‌المللی سوئیس",
+  "name_en": "Swiss / International Typographic Style",
+  "keyword": "Swiss International Typographic Style",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "poster",
+   "editorial",
+   "branding"
+  ],
+  "image": "images/styles/swiss-international-typographic-style.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "bauhaus-graphic-design",
+  "name_fa": "گرافیک باوهاوس",
+  "name_en": "Bauhaus graphic design",
+  "keyword": "Bauhaus graphic design",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "pattern"
+  ],
+  "needs": [
+   "poster",
+   "branding",
+   "social"
+  ],
+  "image": "images/styles/bauhaus-graphic-design.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "russian-constructivism",
+  "name_fa": "کنستراکتیویسم روسی",
+  "name_en": "Russian Constructivism",
+  "keyword": "Russian Constructivism",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "print"
+  ],
+  "needs": [
+   "poster",
+   "album",
+   "editorial"
+  ],
+  "image": "images/styles/russian-constructivism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "de-stijl",
+  "name_fa": "دِ استایل",
+  "name_en": "De Stijl",
+  "keyword": "De Stijl",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "pattern"
+  ],
+  "needs": [
+   "branding",
+   "poster",
+   "packaging"
+  ],
+  "image": "images/styles/de-stijl.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "memphis-group",
+  "name_fa": "گرافیک گروه ممفیس",
+  "name_en": "Memphis Group graphic design",
+  "keyword": "Memphis Group design",
+  "family": "graphic-design",
+  "form": [
+   "pattern",
+   "layout"
+  ],
+  "needs": [
+   "social",
+   "packaging",
+   "branding"
+  ],
+  "image": "images/styles/memphis-group.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "punk-zine-diy-collage",
+  "name_fa": "کلاژ زین پانکی",
+  "name_en": "Punk zine / DIY collage",
+  "keyword": "punk zine collage",
+  "family": "graphic-design",
+  "form": [
+   "print",
+   "lettering"
+  ],
+  "needs": [
+   "album",
+   "editorial",
+   "poster"
+  ],
+  "image": "images/styles/punk-zine-diy-collage.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "postmodern-graphic-design",
+  "name_fa": "گرافیک پست‌مدرن",
+  "name_en": "Postmodern graphic design",
+  "keyword": "postmodern graphic design",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "editorial",
+   "album",
+   "poster"
+  ],
+  "image": "images/styles/postmodern-graphic-design.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "neo-brutalist-web-graphics",
+  "name_fa": "گرافیک وب نئوبروتالیستی",
+  "name_en": "Neo-brutalist / brutalist web graphics",
+  "keyword": "neo-brutalist web graphics",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "ui-web",
+   "social",
+   "branding"
+  ],
+  "image": "images/styles/neo-brutalist-web-graphics.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "bauhaus-revival-flat-geometric",
+  "name_fa": "هندسهٔ تخت به سبک باوهاوس نو",
+  "name_en": "Bauhaus-revival flat geometric",
+  "keyword": "Bauhaus revival flat geometry",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "pattern"
+  ],
+  "needs": [
+   "branding",
+   "poster",
+   "social"
+  ],
+  "image": "images/styles/bauhaus-revival-flat-geometric.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "flat-design",
+  "name_fa": "طراحی تخت",
+  "name_en": "Flat design",
+  "keyword": "flat design",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "drawing"
+  ],
+  "needs": [
+   "ui-web",
+   "infographic",
+   "social"
+  ],
+  "image": "images/styles/flat-design.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "duotone-graphic",
+  "name_fa": "گرافیک دوتُن",
+  "name_en": "Duotone graphic",
+  "keyword": "duotone graphic",
+  "family": "graphic-design",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "editorial",
+   "album",
+   "social"
+  ],
+  "image": "images/styles/duotone-graphic.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "halftone-pop-comic",
+  "name_fa": "گرافیک کمیک پاپ ترام‌دار",
+  "name_en": "Halftone / pop-comic graphic",
+  "keyword": "halftone pop comic graphic",
+  "family": "graphic-design",
+  "form": [
+   "print",
+   "drawing"
+  ],
+  "needs": [
+   "poster",
+   "album",
+   "packaging"
+  ],
+  "image": "images/styles/halftone-pop-comic.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "constructivist-photomontage",
+  "name_fa": "فتومونتاژ کنستراکتیویستی",
+  "name_en": "Constructivist photomontage",
+  "keyword": "Constructivist photomontage",
+  "family": "graphic-design",
+  "form": [
+   "photo",
+   "layout"
+  ],
+  "needs": [
+   "editorial",
+   "poster",
+   "album"
+  ],
+  "image": "images/styles/constructivist-photomontage.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "swiss-grid-editorial-layout",
+  "name_fa": "صفحه‌آرایی تحریریه با گرید سوئیسی",
+  "name_en": "Swiss grid editorial layout",
+  "keyword": "Swiss grid editorial layout",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "editorial",
+   "book-cover",
+   "ui-web"
+  ],
+  "image": "images/styles/swiss-grid-editorial-layout.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "editorial-magazine-cover",
+  "name_fa": "جلد مجلهٔ تحلیلی",
+  "name_en": "Editorial magazine cover",
+  "keyword": "editorial magazine cover",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "lettering"
+  ],
+  "needs": [
+   "editorial",
+   "social",
+   "branding"
+  ],
+  "image": "images/styles/editorial-magazine-cover.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "isotype-infographic",
+  "name_fa": "اینفوگرافیک آیزوتایپ",
+  "name_en": "ISOTYPE infographic",
+  "keyword": "ISOTYPE infographic",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "pattern"
+  ],
+  "needs": [
+   "infographic",
+   "explainer",
+   "documentary"
+  ],
+  "image": "images/styles/isotype-infographic.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "retro-badge-vintage-label",
+  "name_fa": "نشان و برچسب وینتیج",
+  "name_en": "Retro badge / vintage label",
+  "keyword": "retro badge vintage label",
+  "family": "graphic-design",
+  "form": [
+   "lettering",
+   "pattern"
+  ],
+  "needs": [
+   "packaging",
+   "branding",
+   "ads-product"
+  ],
+  "image": "images/styles/retro-badge-vintage-label.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "70s-groovy",
+  "name_fa": "گرووی دههٔ هفتاد",
+  "name_en": "70s Groovy",
+  "keyword": "1970s groovy",
+  "family": "illustration",
+  "form": [
+   "lettering",
+   "print"
+  ],
+  "needs": [
+   "social",
+   "packaging",
+   "branding"
+  ],
+  "image": "images/styles/70s-groovy.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "vintage-americana-sign-painting",
+  "name_fa": "تابلوسازی آمریکایی وینتیج",
+  "name_en": "Vintage Americana / Sign Painting",
+  "keyword": "vintage sign painting",
+  "family": "illustration",
+  "form": [
+   "lettering",
+   "craft"
+  ],
+  "needs": [
+   "packaging",
+   "branding",
+   "ads-product"
+  ],
+  "image": "images/styles/vintage-americana-sign-painting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "80s-airbrush",
+  "name_fa": "ایربراش دههٔ هشتاد",
+  "name_en": "80s Airbrush",
+  "keyword": "80s airbrush",
+  "family": "illustration",
+  "form": [
+   "painting",
+   "print"
+  ],
+  "needs": [
+   "album",
+   "ads-product",
+   "poster"
+  ],
+  "image": "images/styles/80s-airbrush.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "pulp-sci-fi-paperback",
+  "name_fa": "جلد علمی‌تخیلی پالپ",
+  "name_en": "Pulp Sci-Fi Paperback",
+  "keyword": "pulp sci-fi paperback",
+  "family": "illustration",
+  "form": [
+   "painting",
+   "print"
+  ],
+  "needs": [
+   "book-cover",
+   "concept",
+   "editorial"
+  ],
+  "image": "images/styles/pulp-sci-fi-paperback.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "blueprint-technical-drawing",
+  "name_fa": "بلوپرینت و ترسیم فنی",
+  "name_en": "Blueprint / Technical Drawing",
+  "keyword": "blueprint technical drawing",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "layout"
+  ],
+  "needs": [
+   "infographic",
+   "concept",
+   "editorial"
+  ],
+  "image": "images/styles/blueprint-technical-drawing.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "botanical-engraving",
+  "name_fa": "حکاکی گیاه‌شناختی",
+  "name_en": "Botanical Engraving",
+  "keyword": "botanical engraving",
+  "family": "illustration",
+  "form": [
+   "print",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "packaging",
+   "editorial"
+  ],
+  "image": "images/styles/botanical-engraving.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "manga-screentone",
+  "name_fa": "مانگا با ترام",
+  "name_en": "Manga / Screentone",
+  "keyword": "manga screentone",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "print"
+  ],
+  "needs": [
+   "children",
+   "book-cover",
+   "concept"
+  ],
+  "image": "images/styles/manga-screentone.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "rubber-hose",
+  "name_fa": "کارتون رابرهوز",
+  "name_en": "Rubber Hose",
+  "keyword": "rubber hose cartoon",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "motion"
+  ],
+  "needs": [
+   "children",
+   "concept",
+   "short-video"
+  ],
+  "image": "images/styles/rubber-hose.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "mid-century-modern-illustration",
+  "name_fa": "تصویرسازی مدرنیستی میانهٔ قرن",
+  "name_en": "Mid-century modern illustration",
+  "keyword": "mid-century modern illustration",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "print"
+  ],
+  "needs": [
+   "editorial",
+   "book-cover",
+   "poster"
+  ],
+  "image": "images/styles/mid-century-modern-illustration.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "corporate-memphis-illustration",
+  "name_fa": "تصویرسازی شرکتی ممفیس",
+  "name_en": "Corporate Memphis illustration",
+  "keyword": "Corporate Memphis illustration",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "layout"
+  ],
+  "needs": [
+   "explainer",
+   "ui-web",
+   "social"
+  ],
+  "image": "images/styles/corporate-memphis-illustration.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "line-art-illustration",
+  "name_fa": "تصویرسازی خطی",
+  "name_en": "Line art illustration",
+  "keyword": "line art illustration",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "print"
+  ],
+  "needs": [
+   "editorial",
+   "book-cover",
+   "branding"
+  ],
+  "image": "images/styles/line-art-illustration.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "ligne-claire",
+  "name_fa": "سبک لین کلر",
+  "name_en": "Ligne claire",
+  "keyword": "ligne claire",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "layout"
+  ],
+  "needs": [
+   "book-cover",
+   "poster",
+   "editorial"
+  ],
+  "image": "images/styles/ligne-claire.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "manga-anime-illustration",
+  "name_fa": "تصویرسازی مانگا و انیمه",
+  "name_en": "Manga / anime illustration",
+  "keyword": "manga anime illustration",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "motion"
+  ],
+  "needs": [
+   "poster",
+   "short-video",
+   "children"
+  ],
+  "image": "images/styles/manga-anime-illustration.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "american-comic-book",
+  "name_fa": "تصویرسازی کمیک آمریکایی",
+  "name_en": "American comic-book illustration",
+  "keyword": "American comic book art",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "print"
+  ],
+  "needs": [
+   "album",
+   "poster",
+   "concept"
+  ],
+  "image": "images/styles/american-comic-book.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "childrens-picture-book-gouache",
+  "name_fa": "گواش کتاب کودک",
+  "name_en": "Children’s picture-book gouache",
+  "keyword": "children’s picture book gouache",
+  "family": "illustration",
+  "form": [
+   "painting",
+   "craft"
+  ],
+  "needs": [
+   "children",
+   "book-cover",
+   "packaging"
+  ],
+  "image": "images/styles/childrens-picture-book-gouache.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "botanical-illustration",
+  "name_fa": "تصویرسازی گیاه‌شناسی",
+  "name_en": "Botanical illustration",
+  "keyword": "botanical illustration",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "painting"
+  ],
+  "needs": [
+   "infographic",
+   "packaging",
+   "book-cover"
+  ],
+  "image": "images/styles/botanical-illustration.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "technical-patent-drawing",
+  "name_fa": "ترسیم فنی",
+  "name_en": "Technical / patent drawing",
+  "keyword": "technical patent drawing",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "layout"
+  ],
+  "needs": [
+   "infographic",
+   "explainer",
+   "concept"
+  ],
+  "image": "images/styles/technical-patent-drawing.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "isometric-pixel-illustration",
+  "name_fa": "تصویرسازی پیکسلی ایزومتریک",
+  "name_en": "Isometric pixel illustration",
+  "keyword": "isometric pixel art",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "pattern"
+  ],
+  "needs": [
+   "concept",
+   "social",
+   "poster"
+  ],
+  "image": "images/styles/isometric-pixel-illustration.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "italian-futurism",
+  "name_fa": "آینده‌گرایی ایتالیایی",
+  "name_en": "Italian Futurism",
+  "keyword": "Italian Futurism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "album",
+   "editorial",
+   "ads-product"
+  ],
+  "image": "images/styles/italian-futurism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "art-deco",
+  "name_fa": "آرت دکو",
+  "name_en": "Art Deco",
+  "keyword": "Art Deco",
+  "family": "art-movement",
+  "form": [
+   "drawing",
+   "print"
+  ],
+  "needs": [
+   "branding",
+   "book-cover",
+   "concept"
+  ],
+  "image": "images/styles/art-deco.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "art-nouveau",
+  "name_fa": "آرت نوو",
+  "name_en": "Art Nouveau",
+  "keyword": "Art Nouveau",
+  "family": "art-movement",
+  "form": [
+   "drawing",
+   "print"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "packaging"
+  ],
+  "image": "images/styles/art-nouveau.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "suprematism",
+  "name_fa": "سوپرماتیسم",
+  "name_en": "Suprematism",
+  "keyword": "Suprematism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "print"
+  ],
+  "needs": [
+   "poster",
+   "album",
+   "editorial"
+  ],
+  "image": "images/styles/suprematism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "op-art",
+  "name_fa": "اپ‌آرت",
+  "name_en": "Op Art",
+  "keyword": "Op Art",
+  "family": "art-movement",
+  "form": [
+   "pattern",
+   "print"
+  ],
+  "needs": [
+   "album",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/op-art.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "streamline-moderne",
+  "name_fa": "استریم‌لاین مدرن",
+  "name_en": "Streamline Moderne",
+  "keyword": "Streamline Moderne",
+  "family": "art-movement",
+  "form": [
+   "drawing",
+   "3d"
+  ],
+  "needs": [
+   "concept",
+   "moodboard",
+   "editorial"
+  ],
+  "image": "images/styles/streamline-moderne.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "cubism",
+  "name_fa": "کوبیسم",
+  "name_en": "Cubism",
+  "keyword": "Cubism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/cubism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "pop-art-ben-day",
+  "name_fa": "هنر پاپ و بن‌دی",
+  "name_en": "Pop Art / Ben-Day",
+  "keyword": "Pop Art Ben-Day",
+  "family": "art-movement",
+  "form": [
+   "print",
+   "drawing"
+  ],
+  "needs": [
+   "social",
+   "editorial",
+   "album"
+  ],
+  "image": "images/styles/pop-art-ben-day.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "superflat",
+  "name_fa": "سوپرفلت",
+  "name_en": "Superflat",
+  "keyword": "Superflat",
+  "family": "art-movement",
+  "form": [
+   "drawing",
+   "print"
+  ],
+  "needs": [
+   "editorial",
+   "social",
+   "packaging"
+  ],
+  "image": "images/styles/superflat.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "ukiyo-e",
+  "name_fa": "اوکی‌یوئه",
+  "name_en": "Ukiyo-e",
+  "keyword": "ukiyo-e",
+  "family": "art-movement",
+  "form": [
+   "print",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "packaging",
+   "editorial"
+  ],
+  "image": "images/styles/ukiyo-e.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "dada-photomontage",
+  "name_fa": "فتومونتاژ دادا",
+  "name_en": "Dada Photomontage",
+  "keyword": "Dada photomontage",
+  "family": "art-movement",
+  "form": [
+   "photo",
+   "print"
+  ],
+  "needs": [
+   "editorial",
+   "album",
+   "concept"
+  ],
+  "image": "images/styles/dada-photomontage.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "surrealism",
+  "name_fa": "سوررئالیسم",
+  "name_en": "Surrealism",
+  "keyword": "Surrealism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "album",
+   "editorial"
+  ],
+  "image": "images/styles/surrealism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "pointillism",
+  "name_fa": "پوینتیلیسم",
+  "name_en": "Pointillism",
+  "keyword": "Pointillism",
+  "family": "art-movement",
+  "form": [
+   "painting"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/pointillism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "greco-roman-classical",
+  "name_fa": "کلاسیک یونانی‌رومی",
+  "name_en": "Greco-Roman Classical",
+  "keyword": "Greco-Roman classical",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "3d"
+  ],
+  "needs": [
+   "book-cover",
+   "concept",
+   "moodboard"
+  ],
+  "image": "images/styles/greco-roman-classical.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "renaissance",
+  "name_fa": "رنسانس",
+  "name_en": "Renaissance",
+  "keyword": "Renaissance",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "moodboard"
+  ],
+  "image": "images/styles/renaissance.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "baroque",
+  "name_fa": "باروک",
+  "name_en": "Baroque",
+  "keyword": "Baroque",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "light-color"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "moodboard"
+  ],
+  "image": "images/styles/baroque.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "rococo",
+  "name_fa": "روکوکو",
+  "name_en": "Rococo",
+  "keyword": "Rococo",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "pattern"
+  ],
+  "needs": [
+   "book-cover",
+   "packaging",
+   "moodboard"
+  ],
+  "image": "images/styles/rococo.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "romanticism",
+  "name_fa": "رمانتیسم",
+  "name_en": "Romanticism",
+  "keyword": "Romanticism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "light-color"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "moodboard"
+  ],
+  "image": "images/styles/romanticism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "impressionism",
+  "name_fa": "امپرسیونیسم",
+  "name_en": "Impressionism",
+  "keyword": "Impressionism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "light-color"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "moodboard"
+  ],
+  "image": "images/styles/impressionism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "post-impressionism",
+  "name_fa": "پساامپرسیونیسم",
+  "name_en": "Post-Impressionism",
+  "keyword": "Post-Impressionism",
+  "family": "art-movement",
+  "form": [
+   "painting"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "moodboard"
+  ],
+  "image": "images/styles/post-impressionism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "expressionism",
+  "name_fa": "اکسپرسیونیسم",
+  "name_en": "Expressionism",
+  "keyword": "Expressionism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "album",
+   "book-cover",
+   "editorial"
+  ],
+  "image": "images/styles/expressionism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "fauvism",
+  "name_fa": "فاویسم",
+  "name_en": "Fauvism",
+  "keyword": "Fauvism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "light-color"
+  ],
+  "needs": [
+   "book-cover",
+   "poster",
+   "editorial"
+  ],
+  "image": "images/styles/fauvism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "abstract-expressionism",
+  "name_fa": "اکسپرسیونیسم انتزاعی",
+  "name_en": "Abstract Expressionism",
+  "keyword": "abstract expressionism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "light-color"
+  ],
+  "needs": [
+   "album",
+   "moodboard",
+   "poster"
+  ],
+  "image": "images/styles/abstract-expressionism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "minimalism-art",
+  "name_fa": "مینیمالیسم",
+  "name_en": "Minimalism",
+  "keyword": "Minimalism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "light-color"
+  ],
+  "needs": [
+   "poster",
+   "social",
+   "moodboard"
+  ],
+  "image": "images/styles/minimalism-art.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "realism-art",
+  "name_fa": "رئالیسم سدهٔ نوزدهم",
+  "name_en": "Realism (19th century)",
+  "keyword": "19th-century realism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "light-color"
+  ],
+  "needs": [
+   "editorial",
+   "book-cover"
+  ],
+  "image": "images/styles/realism-art.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "pre-raphaelite",
+  "name_fa": "پیش‌رافائلی",
+  "name_en": "Pre-Raphaelite",
+  "keyword": "Pre-Raphaelite painting",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "poster",
+   "editorial"
+  ],
+  "image": "images/styles/pre-raphaelite.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "chinese-gongbi",
+  "name_fa": "گونگ‌بی چینی",
+  "name_en": "Chinese Gongbi",
+  "keyword": "Chinese gongbi painting",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "packaging",
+   "children"
+  ],
+  "image": "images/styles/chinese-gongbi.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "stencil",
+  "name_fa": "استنسیل",
+  "name_en": "Stencil",
+  "keyword": "stencil art",
+  "family": "medium",
+  "form": [
+   "print",
+   "drawing"
+  ],
+  "needs": [
+   "poster",
+   "social",
+   "branding"
+  ],
+  "image": "images/styles/stencil.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "watercolor",
+  "name_fa": "آبرنگ",
+  "name_en": "Watercolor",
+  "keyword": "watercolor painting",
+  "family": "medium",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "children"
+  ],
+  "image": "images/styles/watercolor.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "marker-illustration",
+  "name_fa": "تصویرسازی با ماژیک",
+  "name_en": "Marker illustration",
+  "keyword": "marker illustration",
+  "family": "medium",
+  "form": [
+   "drawing",
+   "painting"
+  ],
+  "needs": [
+   "editorial",
+   "social",
+   "ads-product"
+  ],
+  "image": "images/styles/marker-illustration.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "risograph",
+  "name_fa": "ریزوگراف",
+  "name_en": "Risograph",
+  "keyword": "risograph print",
+  "family": "medium",
+  "form": [
+   "print",
+   "layout"
+  ],
+  "needs": [
+   "poster",
+   "editorial",
+   "album"
+  ],
+  "image": "images/styles/risograph.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "graffiti",
+  "name_fa": "گرافیتی",
+  "name_en": "Graffiti",
+  "keyword": "graffiti",
+  "family": "medium",
+  "form": [
+   "lettering",
+   "painting"
+  ],
+  "needs": [
+   "social",
+   "poster",
+   "branding"
+  ],
+  "image": "images/styles/graffiti.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "charcoal",
+  "name_fa": "زغال",
+  "name_en": "Charcoal",
+  "keyword": "charcoal drawing",
+  "family": "medium",
+  "form": [
+   "drawing",
+   "painting"
+  ],
+  "needs": [
+   "editorial",
+   "book-cover",
+   "concept"
+  ],
+  "image": "images/styles/charcoal.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "painterly-digital-oil",
+  "name_fa": "نقاشی دیجیتال رنگ‌روغن",
+  "name_en": "Painterly / Digital Oil",
+  "keyword": "digital oil painting",
+  "family": "medium",
+  "form": [
+   "painting"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/painterly-digital-oil.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "woodcut-linocut",
+  "name_fa": "چاپ چوبی و لینوکات",
+  "name_en": "Woodcut / Linocut",
+  "keyword": "woodcut linocut",
+  "family": "medium",
+  "form": [
+   "print",
+   "drawing"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/woodcut-linocut.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "continuous-line-art",
+  "name_fa": "طراحی تک‌خطی",
+  "name_en": "Continuous Line Art",
+  "keyword": "continuous line art",
+  "family": "medium",
+  "form": [
+   "drawing"
+  ],
+  "needs": [
+   "editorial",
+   "branding",
+   "concept"
+  ],
+  "image": "images/styles/continuous-line-art.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "sumi-e-ink-wash",
+  "name_fa": "سومی‌ئه (آب‌مرکب)",
+  "name_en": "Sumi-e / Ink Wash",
+  "keyword": "sumi-e ink wash",
+  "family": "medium",
+  "form": [
+   "painting",
+   "light-color"
+  ],
+  "needs": [
+   "book-cover",
+   "branding",
+   "moodboard"
+  ],
+  "image": "images/styles/sumi-e-ink-wash.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "cyanotype",
+  "name_fa": "سیانوتایپ",
+  "name_en": "Cyanotype",
+  "keyword": "cyanotype print",
+  "family": "medium",
+  "form": [
+   "print",
+   "photo"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "packaging"
+  ],
+  "image": "images/styles/cyanotype.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "gouache",
+  "name_fa": "گواش",
+  "name_en": "Gouache",
+  "keyword": "gouache painting",
+  "family": "medium",
+  "form": [
+   "painting",
+   "light-color"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "poster"
+  ],
+  "image": "images/styles/gouache.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "pastel-drawing",
+  "name_fa": "طراحی با پاستل نرم",
+  "name_en": "Soft Pastel",
+  "keyword": "soft pastel drawing",
+  "family": "medium",
+  "form": [
+   "drawing",
+   "light-color"
+  ],
+  "needs": [
+   "editorial",
+   "book-cover",
+   "moodboard"
+  ],
+  "image": "images/styles/pastel-drawing.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "pen-and-ink",
+  "name_fa": "طراحی با قلم و مرکب",
+  "name_en": "Pen and Ink",
+  "keyword": "pen and ink drawing",
+  "family": "medium",
+  "form": [
+   "drawing",
+   "print"
+  ],
+  "needs": [
+   "editorial",
+   "book-cover",
+   "infographic"
+  ],
+  "image": "images/styles/pen-and-ink.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "vaporwave",
+  "name_fa": "ویپورویو",
+  "name_en": "Vaporwave",
+  "keyword": "vaporwave",
+  "family": "digital-aesthetic",
+  "form": [
+   "drawing",
+   "layout"
+  ],
+  "needs": [
+   "album",
+   "social",
+   "moodboard"
+  ],
+  "image": "images/styles/vaporwave.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "y2k-frutiger-aero",
+  "name_fa": "وای‌تو‌کی و فروتیگر آئرو",
+  "name_en": "Y2K / Frutiger Aero",
+  "keyword": "Y2K Frutiger Aero",
+  "family": "digital-aesthetic",
+  "form": [
+   "3d",
+   "layout"
+  ],
+  "needs": [
+   "branding",
+   "ads-product",
+   "social"
+  ],
+  "image": "images/styles/y2k-frutiger-aero.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "atomic-retro-futurism",
+  "name_fa": "آینده‌گرایی اتمی نوستالژیک",
+  "name_en": "Atomic Retro-Futurism",
+  "keyword": "atomic retro-futurism",
+  "family": "digital-aesthetic",
+  "form": [
+   "drawing",
+   "print"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "branding"
+  ],
+  "image": "images/styles/atomic-retro-futurism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "cassette-futurism",
+  "name_fa": "آینده‌گرایی عصر کاست",
+  "name_en": "Cassette Futurism",
+  "keyword": "cassette futurism",
+  "family": "digital-aesthetic",
+  "form": [
+   "3d",
+   "layout"
+  ],
+  "needs": [
+   "concept",
+   "book-cover",
+   "moodboard"
+  ],
+  "image": "images/styles/cassette-futurism.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "pixel-art-8-bit",
+  "name_fa": "پیکسل‌آرت هشت‌بیتی",
+  "name_en": "Pixel Art / 8-bit",
+  "keyword": "8-bit pixel art",
+  "family": "digital-aesthetic",
+  "form": [
+   "drawing",
+   "motion"
+  ],
+  "needs": [
+   "concept",
+   "social",
+   "ui-web"
+  ],
+  "image": "images/styles/pixel-art-8-bit.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "glitch-datamosh",
+  "name_fa": "گلیچ و دیتاماش",
+  "name_en": "Glitch / Datamosh",
+  "keyword": "glitch datamosh",
+  "family": "digital-aesthetic",
+  "form": [
+   "motion",
+   "pattern"
+  ],
+  "needs": [
+   "album",
+   "social",
+   "editorial"
+  ],
+  "image": "images/styles/glitch-datamosh.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "ascii-terminal",
+  "name_fa": "آسکی و ترمینال",
+  "name_en": "ASCII / Terminal",
+  "keyword": "ASCII terminal",
+  "family": "digital-aesthetic",
+  "form": [
+   "lettering",
+   "layout"
+  ],
+  "needs": [
+   "poster",
+   "social",
+   "editorial"
+  ],
+  "image": "images/styles/ascii-terminal.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "cyberpunk-neon",
+  "name_fa": "سایبرپانک نئونی",
+  "name_en": "Cyberpunk Neon",
+  "keyword": "cyberpunk neon",
+  "family": "digital-aesthetic",
+  "form": [
+   "light-color",
+   "3d"
+  ],
+  "needs": [
+   "concept",
+   "album",
+   "book-cover"
+  ],
+  "image": "images/styles/cyberpunk-neon.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "1-bit-dither",
+  "name_fa": "دیترینگ یک‌بیتی",
+  "name_en": "1-bit / Dither",
+  "keyword": "1-bit dithering",
+  "family": "digital-aesthetic",
+  "form": [
+   "print",
+   "drawing"
+  ],
+  "needs": [
+   "ui-web",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/1-bit-dither.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "generative-plotter",
+  "name_fa": "هنر مولد و پلاتر",
+  "name_en": "Generative / Plotter",
+  "keyword": "generative plotter art",
+  "family": "digital-aesthetic",
+  "form": [
+   "pattern",
+   "print"
+  ],
+  "needs": [
+   "concept",
+   "branding",
+   "editorial"
+  ],
+  "image": "images/styles/generative-plotter.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "steampunk",
+  "name_fa": "استیم‌پانک",
+  "name_en": "Steampunk",
+  "keyword": "steampunk",
+  "family": "digital-aesthetic",
+  "form": [
+   "3d",
+   "light-color"
+  ],
+  "needs": [
+   "concept",
+   "book-cover",
+   "poster"
+  ],
+  "image": "images/styles/steampunk.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "solarpunk",
+  "name_fa": "سولارپانک",
+  "name_en": "Solarpunk",
+  "keyword": "solarpunk",
+  "family": "digital-aesthetic",
+  "form": [
+   "3d",
+   "light-color"
+  ],
+  "needs": [
+   "concept",
+   "editorial",
+   "poster"
+  ],
+  "image": "images/styles/solarpunk.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "dieselpunk",
+  "name_fa": "دیزل‌پانک",
+  "name_en": "Dieselpunk",
+  "keyword": "dieselpunk",
+  "family": "digital-aesthetic",
+  "form": [
+   "3d",
+   "light-color"
+  ],
+  "needs": [
+   "concept",
+   "poster",
+   "film"
+  ],
+  "image": "images/styles/dieselpunk.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "synthwave-outrun",
+  "name_fa": "سینث‌ویو و آوتران",
+  "name_en": "Synthwave / Outrun",
+  "keyword": "synthwave outrun",
+  "family": "digital-aesthetic",
+  "form": [
+   "light-color",
+   "3d"
+  ],
+  "needs": [
+   "album",
+   "poster",
+   "social"
+  ],
+  "image": "images/styles/synthwave-outrun.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "cottagecore",
+  "name_fa": "کاتج‌کور",
+  "name_en": "Cottagecore",
+  "keyword": "cottagecore",
+  "family": "digital-aesthetic",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "social",
+   "branding",
+   "moodboard"
+  ],
+  "image": "images/styles/cottagecore.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "dark-academia",
+  "name_fa": "دارک آکادمیا",
+  "name_en": "Dark Academia",
+  "keyword": "dark academia",
+  "family": "digital-aesthetic",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "book-cover",
+   "moodboard",
+   "editorial"
+  ],
+  "image": "images/styles/dark-academia.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "liminal-space",
+  "name_fa": "فضای لیمینال",
+  "name_en": "Liminal Space",
+  "keyword": "liminal space",
+  "family": "digital-aesthetic",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "concept",
+   "film",
+   "moodboard"
+  ],
+  "image": "images/styles/liminal-space.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "low-poly-3d",
+  "name_fa": "سه‌بعدی کم‌پلیگان",
+  "name_en": "Low-Poly 3D",
+  "keyword": "low-poly 3D",
+  "family": "3d-render",
+  "form": [
+   "3d"
+  ],
+  "needs": [
+   "concept",
+   "editorial",
+   "ui-web"
+  ],
+  "image": "images/styles/low-poly-3d.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "voxel-art",
+  "name_fa": "هنر وکسل",
+  "name_en": "Voxel Art",
+  "keyword": "voxel art",
+  "family": "3d-render",
+  "form": [
+   "3d",
+   "pattern"
+  ],
+  "needs": [
+   "concept",
+   "social",
+   "branding"
+  ],
+  "image": "images/styles/voxel-art.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "clay-3d-render",
+  "name_fa": "رندر سه‌بعدی خمیری",
+  "name_en": "Soft Clay 3D Render",
+  "keyword": "soft clay 3D render",
+  "family": "3d-render",
+  "form": [
+   "3d",
+   "light-color"
+  ],
+  "needs": [
+   "concept",
+   "children",
+   "ui-web"
+  ],
+  "image": "images/styles/clay-3d-render.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "vinyl-toy-render",
+  "name_fa": "رندر فیگور وینیل",
+  "name_en": "Vinyl Toy / Collectible Figure",
+  "keyword": "vinyl toy render",
+  "family": "3d-render",
+  "form": [
+   "3d",
+   "light-color"
+  ],
+  "needs": [
+   "concept",
+   "packaging",
+   "ads-product"
+  ],
+  "image": "images/styles/vinyl-toy-render.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "photoreal-3d-render",
+  "name_fa": "رندر سه‌بعدی فوتورئال",
+  "name_en": "Photoreal 3D Render",
+  "keyword": "photorealistic 3D render",
+  "family": "3d-render",
+  "form": [
+   "3d",
+   "light-color"
+  ],
+  "needs": [
+   "ads-product",
+   "concept",
+   "packaging"
+  ],
+  "image": "images/styles/photoreal-3d-render.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "miniature-diorama",
+  "name_fa": "دیورامای مینیاتوری",
+  "name_en": "Miniature Diorama",
+  "keyword": "miniature diorama",
+  "family": "3d-render",
+  "form": [
+   "3d",
+   "craft"
+  ],
+  "needs": [
+   "concept",
+   "book-cover",
+   "social"
+  ],
+  "image": "images/styles/miniature-diorama.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "quilling",
+  "name_fa": "ملیله‌کاری کاغذ (کوئیلینگ)",
+  "name_en": "Quilling",
+  "keyword": "paper quilling",
+  "family": "craft-material",
+  "form": [
+   "craft",
+   "pattern"
+  ],
+  "needs": [
+   "children",
+   "packaging",
+   "social"
+  ],
+  "image": "images/styles/quilling.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "collage",
+  "name_fa": "کلاژ",
+  "name_en": "Collage",
+  "keyword": "collage",
+  "family": "craft-material",
+  "form": [
+   "drawing",
+   "craft"
+  ],
+  "needs": [
+   "poster",
+   "album",
+   "editorial"
+  ],
+  "image": "images/styles/collage.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "mosaic",
+  "name_fa": "موزاییک",
+  "name_en": "Mosaic",
+  "keyword": "mosaic art",
+  "family": "craft-material",
+  "form": [
+   "pattern",
+   "craft"
+  ],
+  "needs": [
+   "concept",
+   "packaging",
+   "branding"
+  ],
+  "image": "images/styles/mosaic.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "porcelain",
+  "name_fa": "چینی",
+  "name_en": "Porcelain",
+  "keyword": "porcelain",
+  "family": "craft-material",
+  "form": [
+   "craft",
+   "3d"
+  ],
+  "needs": [
+   "ads-product",
+   "packaging",
+   "concept"
+  ],
+  "image": "images/styles/porcelain.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "light",
+  "name_fa": "ساخته از نور",
+  "name_en": "Light",
+  "keyword": "light art",
+  "family": "craft-material",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "concept",
+   "moodboard",
+   "ads-product"
+  ],
+  "image": "images/styles/light.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "candy",
+  "name_fa": "آب‌نبات",
+  "name_en": "Candy",
+  "keyword": "candy sculpture",
+  "family": "craft-material",
+  "form": [
+   "craft",
+   "3d"
+  ],
+  "needs": [
+   "packaging",
+   "ads-product",
+   "children"
+  ],
+  "image": "images/styles/candy.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "bubbles",
+  "name_fa": "حباب صابون",
+  "name_en": "Bubbles",
+  "keyword": "bubble photography",
+  "family": "craft-material",
+  "form": [
+   "photo",
+   "3d"
+  ],
+  "needs": [
+   "social",
+   "children",
+   "ads-product"
+  ],
+  "image": "images/styles/bubbles.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "crystals",
+  "name_fa": "کریستال",
+  "name_en": "Crystals",
+  "keyword": "crystal sculpture",
+  "family": "craft-material",
+  "form": [
+   "3d",
+   "light-color"
+  ],
+  "needs": [
+   "packaging",
+   "ads-product",
+   "concept"
+  ],
+  "image": "images/styles/crystals.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "ceramic",
+  "name_fa": "سرامیک",
+  "name_en": "Ceramic",
+  "keyword": "ceramic art",
+  "family": "craft-material",
+  "form": [
+   "craft",
+   "3d"
+  ],
+  "needs": [
+   "packaging",
+   "ads-product",
+   "concept"
+  ],
+  "image": "images/styles/ceramic.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "plastic",
+  "name_fa": "پلاستیک",
+  "name_en": "Plastic",
+  "keyword": "plastic art",
+  "family": "craft-material",
+  "form": [
+   "3d",
+   "craft"
+  ],
+  "needs": [
+   "packaging",
+   "ads-product",
+   "concept"
+  ],
+  "image": "images/styles/plastic.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "wood",
+  "name_fa": "چوب",
+  "name_en": "Wood",
+  "keyword": "wood carving",
+  "family": "craft-material",
+  "form": [
+   "craft",
+   "3d"
+  ],
+  "needs": [
+   "packaging",
+   "concept",
+   "ads-product"
+  ],
+  "image": "images/styles/wood.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "metal",
+  "name_fa": "فلز",
+  "name_en": "Metal",
+  "keyword": "metalwork",
+  "family": "craft-material",
+  "form": [
+   "3d",
+   "craft"
+  ],
+  "needs": [
+   "branding",
+   "ads-product",
+   "concept"
+  ],
+  "image": "images/styles/metal.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "water",
+  "name_fa": "ساخته از آب",
+  "name_en": "Water",
+  "keyword": "water art",
+  "family": "craft-material",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "concept",
+   "moodboard",
+   "ads-product"
+  ],
+  "image": "images/styles/water.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "glass",
+  "name_fa": "شیشه",
+  "name_en": "Glass",
+  "keyword": "glass art",
+  "family": "craft-material",
+  "form": [
+   "craft",
+   "3d"
+  ],
+  "needs": [
+   "packaging",
+   "ads-product",
+   "concept"
+  ],
+  "image": "images/styles/glass.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "sand",
+  "name_fa": "ساخته از شن",
+  "name_en": "Sand",
+  "keyword": "sand art",
+  "family": "craft-material",
+  "form": [
+   "craft",
+   "pattern"
+  ],
+  "needs": [
+   "children",
+   "concept",
+   "moodboard"
+  ],
+  "image": "images/styles/sand.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "rain",
+  "name_fa": "باران",
+  "name_en": "Rain",
+  "keyword": "rain photography",
+  "family": "craft-material",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "short-video",
+   "editorial",
+   "moodboard"
+  ],
+  "image": "images/styles/rain.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "layered-papercut",
+  "name_fa": "کاغذبری لایه‌ای",
+  "name_en": "Layered Papercut",
+  "keyword": "layered papercut",
+  "family": "craft-material",
+  "form": [
+   "craft",
+   "drawing"
+  ],
+  "needs": [
+   "children",
+   "packaging",
+   "editorial"
+  ],
+  "image": "images/styles/layered-papercut.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "embroidery",
+  "name_fa": "گلدوزی",
+  "name_en": "Embroidery",
+  "keyword": "embroidery",
+  "family": "craft-material",
+  "form": [
+   "craft",
+   "pattern"
+  ],
+  "needs": [
+   "branding",
+   "packaging",
+   "editorial"
+  ],
+  "image": "images/styles/embroidery.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "needle-felting",
+  "name_fa": "نمدسازی با سوزن",
+  "name_en": "Needle Felting",
+  "keyword": "needle felting",
+  "family": "craft-material",
+  "form": [
+   "craft"
+  ],
+  "needs": [
+   "children",
+   "packaging",
+   "social"
+  ],
+  "image": "images/styles/needle-felting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "stained-glass",
+  "name_fa": "شیشهٔ رنگی",
+  "name_en": "Stained Glass",
+  "keyword": "stained glass",
+  "family": "craft-material",
+  "form": [
+   "craft",
+   "light-color"
+  ],
+  "needs": [
+   "branding",
+   "book-cover",
+   "concept"
+  ],
+  "image": "images/styles/stained-glass.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "origami",
+  "name_fa": "اوریگامی",
+  "name_en": "Origami",
+  "keyword": "origami",
+  "family": "craft-material",
+  "form": [
+   "craft",
+   "3d"
+  ],
+  "needs": [
+   "packaging",
+   "children",
+   "branding"
+  ],
+  "image": "images/styles/origami.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "bokeh-photography",
+  "name_fa": "عکاسی بوکه",
+  "name_en": "Bokeh photography",
+  "keyword": "bokeh photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "ads-product",
+   "social",
+   "editorial"
+  ],
+  "image": "images/styles/bokeh-photography.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "long-exposure-photography",
+  "name_fa": "عکاسی با نوردهی طولانی",
+  "name_en": "Long exposure photography",
+  "keyword": "long exposure",
+  "family": "photography",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "editorial",
+   "concept",
+   "moodboard"
+  ],
+  "image": "images/styles/long-exposure-photography.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "portrait-photography",
+  "name_fa": "عکاسی پرتره",
+  "name_en": "Portrait Photography",
+  "keyword": "portrait photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "editorial",
+   "social",
+   "branding"
+  ],
+  "image": "images/styles/portrait-photography.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "street-photography",
+  "name_fa": "عکاسی خیابانی",
+  "name_en": "Street Photography",
+  "keyword": "street photography",
+  "family": "photography",
+  "form": [
+   "photo"
+  ],
+  "needs": [
+   "editorial",
+   "documentary",
+   "book-cover"
+  ],
+  "image": "images/styles/street-photography.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "documentary-photography",
+  "name_fa": "عکاسی مستند",
+  "name_en": "Documentary Photography",
+  "keyword": "documentary photography",
+  "family": "photography",
+  "form": [
+   "photo"
+  ],
+  "needs": [
+   "documentary",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/documentary-photography.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "macro-photography",
+  "name_fa": "عکاسی ماکرو",
+  "name_en": "Macro Photography",
+  "keyword": "macro photography",
+  "family": "photography",
+  "form": [
+   "photo"
+  ],
+  "needs": [
+   "editorial",
+   "packaging",
+   "concept"
+  ],
+  "image": "images/styles/macro-photography.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "double-exposure-photography",
+  "name_fa": "عکاسی با نوردهی دوگانه",
+  "name_en": "Double Exposure Photography",
+  "keyword": "double exposure photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "album",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/double-exposure-photography.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "infrared-photography",
+  "name_fa": "عکاسی فروسرخ",
+  "name_en": "Infrared Photography",
+  "keyword": "infrared photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "editorial",
+   "album",
+   "concept"
+  ],
+  "image": "images/styles/infrared-photography.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "fashion-editorial-photo",
+  "name_fa": "عکاسی ادیتوریال مد",
+  "name_en": "Fashion Editorial Photography",
+  "keyword": "fashion editorial photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "editorial",
+   "branding",
+   "album"
+  ],
+  "image": "images/styles/fashion-editorial-photo.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "product-photography",
+  "name_fa": "عکاسی محصول",
+  "name_en": "Product Photography",
+  "keyword": "product photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "ads-product",
+   "packaging",
+   "branding"
+  ],
+  "image": "images/styles/product-photography.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "food-photography",
+  "name_fa": "عکاسی غذا",
+  "name_en": "Food Photography",
+  "keyword": "food photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "ads-product",
+   "editorial",
+   "social"
+  ],
+  "image": "images/styles/food-photography.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "polaroid",
+  "name_fa": "عکاسی پولاروید",
+  "name_en": "Polaroid / Instant Film",
+  "keyword": "Polaroid photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "social",
+   "album",
+   "moodboard"
+  ],
+  "image": "images/styles/polaroid.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "tilt-shift",
+  "name_fa": "مینیاتور تیلت‌شیفت",
+  "name_en": "Tilt-Shift Miniature",
+  "keyword": "tilt-shift miniature photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "social",
+   "concept",
+   "documentary"
+  ],
+  "image": "images/styles/tilt-shift.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "daguerreotype",
+  "name_fa": "داگرئوتیپ",
+  "name_en": "Daguerreotype",
+  "keyword": "daguerreotype photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "print"
+  ],
+  "needs": [
+   "editorial",
+   "book-cover",
+   "moodboard"
+  ],
+  "image": "images/styles/daguerreotype.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "aerial-drone-photo",
+  "name_fa": "عکاسی هوایی با پهپاد",
+  "name_en": "Aerial / Drone Photography",
+  "keyword": "aerial drone photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "editorial",
+   "documentary",
+   "concept"
+  ],
+  "image": "images/styles/aerial-drone-photo.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "studio-lighting",
+  "name_fa": "نورپردازی استودیویی",
+  "name_en": "Studio lighting",
+  "keyword": "studio lighting",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "ads-product",
+   "branding",
+   "concept"
+  ],
+  "image": "images/styles/studio-lighting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "natural-lighting",
+  "name_fa": "نور طبیعی",
+  "name_en": "Natural lighting",
+  "keyword": "natural lighting",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "editorial",
+   "ads-product",
+   "moodboard"
+  ],
+  "image": "images/styles/natural-lighting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "light-and-shadow",
+  "name_fa": "نور و سایه",
+  "name_en": "Light and shadow",
+  "keyword": "light and shadow",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "editorial",
+   "book-cover",
+   "concept"
+  ],
+  "image": "images/styles/light-and-shadow.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "volumetric-lighting",
+  "name_fa": "نور حجمی",
+  "name_en": "Volumetric lighting",
+  "keyword": "volumetric lighting",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "3d"
+  ],
+  "needs": [
+   "film",
+   "book-cover",
+   "concept"
+  ],
+  "image": "images/styles/volumetric-lighting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "neon-lighting",
+  "name_fa": "نور نئون",
+  "name_en": "Neon lighting",
+  "keyword": "neon lighting",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "album",
+   "concept",
+   "ads-product"
+  ],
+  "image": "images/styles/neon-lighting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "golden-hour",
+  "name_fa": "نور ساعت طلایی",
+  "name_en": "Golden hour",
+  "keyword": "golden hour lighting",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "editorial",
+   "ads-product",
+   "moodboard"
+  ],
+  "image": "images/styles/golden-hour.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "blue-hour",
+  "name_fa": "نور ساعت آبی",
+  "name_en": "Blue hour",
+  "keyword": "blue hour lighting",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "editorial",
+   "moodboard",
+   "concept"
+  ],
+  "image": "images/styles/blue-hour.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "backlighting",
+  "name_fa": "نورپردازی از پشت",
+  "name_en": "Backlighting",
+  "keyword": "backlighting",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "editorial",
+   "ads-product",
+   "concept"
+  ],
+  "image": "images/styles/backlighting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "chiaroscuro",
+  "name_fa": "کیاروسکورو",
+  "name_en": "Chiaroscuro",
+  "keyword": "chiaroscuro",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "painting"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/chiaroscuro.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "candlelight",
+  "name_fa": "نور شمع",
+  "name_en": "Candlelight",
+  "keyword": "candlelight",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/candlelight.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "street-lighting",
+  "name_fa": "نورپردازی خیابانی",
+  "name_en": "Street lighting",
+  "keyword": "street lighting",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "ads-product",
+   "album",
+   "concept"
+  ],
+  "image": "images/styles/street-lighting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "softbox-lighting",
+  "name_fa": "نور سافت‌باکس",
+  "name_en": "Softbox lighting",
+  "keyword": "softbox lighting",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "ads-product",
+   "branding",
+   "editorial"
+  ],
+  "image": "images/styles/softbox-lighting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "moonlight",
+  "name_fa": "نور مهتاب",
+  "name_en": "Moonlight",
+  "keyword": "moonlight",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "painting"
+  ],
+  "needs": [
+   "book-cover",
+   "concept",
+   "editorial"
+  ],
+  "image": "images/styles/moonlight.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "fairy-lights",
+  "name_fa": "چراغ‌های ریسه‌ای",
+  "name_en": "Fairy lights",
+  "keyword": "fairy lights",
+  "family": "lighting",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "ads-product",
+   "social",
+   "moodboard"
+  ],
+  "image": "images/styles/fairy-lights.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "high-key-lighting",
+  "name_fa": "نورپردازی های‌کی",
+  "name_en": "High-key lighting",
+  "keyword": "high-key lighting",
+  "family": "lighting",
+  "form": [
+   "light-color"
+  ],
+  "needs": [
+   "ads-product",
+   "explainer"
+  ],
+  "image": "images/styles/high-key-lighting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "rembrandt-lighting",
+  "name_fa": "نورپردازی رامبراند",
+  "name_en": "Rembrandt lighting",
+  "keyword": "Rembrandt lighting",
+  "family": "lighting",
+  "form": [
+   "light-color"
+  ],
+  "needs": [
+   "documentary",
+   "film"
+  ],
+  "image": "images/styles/rembrandt-lighting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "motivated-lighting",
+  "name_fa": "نورپردازی با منبع درون‌صحنه‌ای",
+  "name_en": "Motivated light",
+  "keyword": "motivated lighting",
+  "family": "lighting",
+  "form": [
+   "light-color"
+  ],
+  "needs": [
+   "documentary",
+   "film"
+  ],
+  "image": "images/styles/motivated-lighting.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "cool-tones-warm-tones",
+  "name_fa": "رنگ‌های سرد و گرم",
+  "name_en": "Cool tones/Warm tones",
+  "keyword": "cool and warm tones",
+  "family": "color",
+  "form": [
+   "light-color"
+  ],
+  "needs": [
+   "moodboard",
+   "branding",
+   "editorial"
+  ],
+  "image": "images/styles/cool-tones-warm-tones.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "pastels-vibrant",
+  "name_fa": "رنگ‌های پاستلی و درخشان",
+  "name_en": "Pastels/Vibrant",
+  "keyword": "pastel and vibrant colors",
+  "family": "color",
+  "form": [
+   "light-color"
+  ],
+  "needs": [
+   "moodboard",
+   "children",
+   "social"
+  ],
+  "image": "images/styles/pastels-vibrant.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "earth-tones-jewel-tones",
+  "name_fa": "رنگ‌های خاکی و جواهری",
+  "name_en": "Earth tones/Jewel tones",
+  "keyword": "earth and jewel tones",
+  "family": "color",
+  "form": [
+   "light-color"
+  ],
+  "needs": [
+   "moodboard",
+   "branding",
+   "editorial"
+  ],
+  "image": "images/styles/earth-tones-jewel-tones.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "monochromatic-blues",
+  "name_fa": "طیف تک‌رنگ آبی",
+  "name_en": "Monochromatic blues",
+  "keyword": "monochromatic blue",
+  "family": "color",
+  "form": [
+   "light-color"
+  ],
+  "needs": [
+   "poster",
+   "editorial",
+   "branding"
+  ],
+  "image": "images/styles/monochromatic-blues.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "earthy-reds-and-oranges",
+  "name_fa": "قرمزها و نارنجی‌های خاکی",
+  "name_en": "Earthy reds and oranges",
+  "keyword": "earthy reds and oranges",
+  "family": "color",
+  "form": [
+   "light-color"
+  ],
+  "needs": [
+   "editorial",
+   "book-cover",
+   "moodboard"
+  ],
+  "image": "images/styles/earthy-reds-and-oranges.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "neon-graffiti",
+  "name_fa": "گرافیتی نئونی",
+  "name_en": "Neon graffiti",
+  "keyword": "neon graffiti",
+  "family": "color",
+  "form": [
+   "drawing",
+   "light-color"
+  ],
+  "needs": [
+   "album",
+   "social",
+   "concept"
+  ],
+  "image": "images/styles/neon-graffiti.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "autumn-leaves",
+  "name_fa": "رنگ‌های پاییزی",
+  "name_en": "Autumn leaves",
+  "keyword": "autumn palette",
+  "family": "color",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "ads-product",
+   "editorial",
+   "book-cover"
+  ],
+  "image": "images/styles/autumn-leaves.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "deep-sea-blues",
+  "name_fa": "طیف آبی اعماق دریا",
+  "name_en": "Deep sea blues",
+  "keyword": "deep sea blues",
+  "family": "color",
+  "form": [
+   "light-color",
+   "painting"
+  ],
+  "needs": [
+   "editorial",
+   "album",
+   "concept"
+  ],
+  "image": "images/styles/deep-sea-blues.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "grayscale",
+  "name_fa": "طیف خاکستری",
+  "name_en": "Grayscale",
+  "keyword": "grayscale",
+  "family": "color",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "ads-product",
+   "editorial",
+   "concept"
+  ],
+  "image": "images/styles/grayscale.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "sepia",
+  "name_fa": "سپیا",
+  "name_en": "Sepia",
+  "keyword": "sepia",
+  "family": "color",
+  "form": [
+   "light-color",
+   "photo"
+  ],
+  "needs": [
+   "book-cover",
+   "editorial",
+   "moodboard"
+  ],
+  "image": "images/styles/sepia.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "primary-colors",
+  "name_fa": "رنگ‌های اصلی",
+  "name_en": "Primary colors",
+  "keyword": "primary colors",
+  "family": "color",
+  "form": [
+   "light-color",
+   "drawing"
+  ],
+  "needs": [
+   "children",
+   "infographic",
+   "concept"
+  ],
+  "image": "images/styles/primary-colors.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "rainbow-spectrum",
+  "name_fa": "طیف رنگین‌کمانی",
+  "name_en": "Rainbow spectrum",
+  "keyword": "rainbow spectrum",
+  "family": "color",
+  "form": [
+   "light-color",
+   "drawing"
+  ],
+  "needs": [
+   "children",
+   "infographic",
+   "ads-product"
+  ],
+  "image": "images/styles/rainbow-spectrum.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "extreme-wide-shot",
+  "name_fa": "نمای بسیار باز",
+  "name_en": "Extreme wide shot",
+  "keyword": "extreme wide shot",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "concept"
+  ],
+  "image": "images/styles/extreme-wide-shot.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "wide-shot",
+  "name_fa": "نمای باز",
+  "name_en": "Wide shot",
+  "keyword": "wide shot",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "music-video"
+  ],
+  "image": "images/styles/wide-shot.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "full-shot",
+  "name_fa": "نمای کامل",
+  "name_en": "Full shot",
+  "keyword": "full shot",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "music-video"
+  ],
+  "image": "images/styles/full-shot.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "medium-shot",
+  "name_fa": "نمای متوسط",
+  "name_en": "Medium shot",
+  "keyword": "medium shot",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "music-video"
+  ],
+  "image": "images/styles/medium-shot.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "medium-close-up",
+  "name_fa": "نمای متوسط نزدیک",
+  "name_en": "Medium close-up",
+  "keyword": "medium close-up",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "music-video"
+  ],
+  "image": "images/styles/medium-close-up.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "close-up",
+  "name_fa": "نمای نزدیک",
+  "name_en": "Close-up",
+  "keyword": "close-up",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "music-video"
+  ],
+  "image": "images/styles/close-up.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "extreme-close-up",
+  "name_fa": "نمای بسیار نزدیک",
+  "name_en": "Extreme close-up",
+  "keyword": "extreme close-up",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "music-video"
+  ],
+  "image": "images/styles/extreme-close-up.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "insert-shot",
+  "name_fa": "نمای جزئیات",
+  "name_en": "Insert shot",
+  "keyword": "insert shot",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "explainer"
+  ],
+  "image": "images/styles/insert-shot.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "over-the-shoulder-shot",
+  "name_fa": "نمای روی شانه",
+  "name_en": "Over-the-shoulder shot",
+  "keyword": "over-the-shoulder shot",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "explainer"
+  ],
+  "image": "images/styles/over-the-shoulder-shot.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "point-of-view-shot",
+  "name_fa": "نمای دید شخصیت",
+  "name_en": "Point-of-view shot",
+  "keyword": "point-of-view shot",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "music-video"
+  ],
+  "image": "images/styles/point-of-view-shot.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "two-shot",
+  "name_fa": "نمای دونفره",
+  "name_en": "Two-shot",
+  "keyword": "two-shot",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "music-video"
+  ],
+  "image": "images/styles/two-shot.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "low-angle",
+  "name_fa": "زاویهٔ پایین",
+  "name_en": "Low angle",
+  "keyword": "low-angle shot",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "music-video"
+  ],
+  "image": "images/styles/low-angle.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "high-angle",
+  "name_fa": "زاویهٔ بالا",
+  "name_en": "High angle",
+  "keyword": "high-angle shot",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "music-video"
+  ],
+  "image": "images/styles/high-angle.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "birds-eye-view",
+  "name_fa": "نمای از بالا (دید پرنده)",
+  "name_en": "Bird’s-eye view",
+  "keyword": "bird’s-eye view",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "concept"
+  ],
+  "image": "images/styles/birds-eye-view.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "worms-eye-view",
+  "name_fa": "نمای از پایین (دید کرمی)",
+  "name_en": "Worms-eye view",
+  "keyword": "worm’s-eye view",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "concept"
+  ],
+  "image": "images/styles/worms-eye-view.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "dutch-tilt",
+  "name_fa": "زاویهٔ کج",
+  "name_en": "Dutch tilt",
+  "keyword": "Dutch tilt",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "music-video",
+   "short-video"
+  ],
+  "image": "images/styles/dutch-tilt.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "overhead-top-down",
+  "name_fa": "نمای عمودی از بالا",
+  "name_en": "Overhead top-down shot",
+  "keyword": "overhead top-down shot",
+  "family": "shot-angle",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary",
+   "explainer"
+  ],
+  "image": "images/styles/overhead-top-down.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "eye-level-angle",
+  "name_fa": "زاویهٔ هم‌سطح چشم",
+  "name_en": "Eye-level angle",
+  "keyword": "eye-level shot",
+  "family": "shot-angle",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "documentary",
+   "explainer"
+  ],
+  "image": "images/styles/eye-level-angle.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "static-locked-off",
+  "name_fa": "نمای ثابت",
+  "name_en": "Static / locked-off shot",
+  "keyword": "locked-off shot",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "short-video"
+  ],
+  "image": "images/diagrams/static-locked-off.svg",
+  "kind": "diagram",
+  "prompt": "A tea seller pours a glass of tea at a small Tehran tea house; locked-off medium shot on a tripod, no camera movement; soft window daylight, observational realism. Audio: quiet room tone, cups and kettle.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "pan",
+  "name_fa": "پن",
+  "name_en": "Pan",
+  "keyword": "pan",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "documentary",
+   "short-video"
+  ],
+  "image": "images/diagrams/pan.svg",
+  "kind": "diagram",
+  "prompt": "A shepherd leads two goats along a hillside above a village; wide camera pan slowly follows them from left to right; early morning sunlight, lyrical documentary style. Audio: wind and distant goat bells.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "tilt",
+  "name_fa": "تیلت",
+  "name_en": "Tilt",
+  "keyword": "tilt",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "short-video"
+  ],
+  "image": "images/diagrams/tilt.svg",
+  "kind": "diagram",
+  "prompt": "A student raises a paper lantern in a courtyard in Shiraz; fixed camera tilts upward from the lantern to the evening sky; soft blue-hour light, poetic realism. Audio: courtyard ambience and a faint breeze.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "dolly-in",
+  "name_fa": "دالی به جلو",
+  "name_en": "Dolly in",
+  "keyword": "dolly in",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "ads-product"
+  ],
+  "image": "images/diagrams/dolly-in.svg",
+  "kind": "diagram",
+  "prompt": "A baker opens a warm loaf of sangak in a small bakery; camera physically dollies in toward the rising steam, with clear foreground parallax; warm oven light, intimate cinematic realism. Audio: crust crackle and quiet bakery ambience.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "dolly-out",
+  "name_fa": "دالی به عقب",
+  "name_en": "Dolly out",
+  "keyword": "dolly out",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "branding"
+  ],
+  "image": "images/diagrams/dolly-out.svg",
+  "kind": "diagram",
+  "prompt": "A young musician finishes tuning a tar in a quiet room; camera physically dollies backward to reveal the full room and open window; gentle late-afternoon light, reflective film style. Audio: a final tar note and room tone.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "truck-lateral-slide",
+  "name_fa": "حرکت جانبی دوربین",
+  "name_en": "Truck / lateral slide",
+  "keyword": "lateral tracking shot",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "documentary",
+   "music-video"
+  ],
+  "image": "images/diagrams/truck-lateral-slide.svg",
+  "kind": "diagram",
+  "prompt": "A cyclist rides past a row of old brick houses; camera tracks laterally alongside the cyclist at a steady distance; clear overcast daylight, energetic documentary style. Audio: bicycle wheels and street ambience.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "pedestal",
+  "name_fa": "حرکت عمودی دوربین",
+  "name_en": "Pedestal move",
+  "keyword": "pedestal move",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "ads-product"
+  ],
+  "image": "images/diagrams/pedestal.svg",
+  "kind": "diagram",
+  "prompt": "A ceramicist places a blue bowl on a worktable; camera rises vertically on a pedestal from the hands to the finished bowl without tilting; soft workshop daylight, calm craft-film style. Audio: pottery and workshop room tone.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "crane-jib",
+  "name_fa": "حرکت جرثقیلی دوربین",
+  "name_en": "Crane / jib shot",
+  "keyword": "crane shot",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "short-video"
+  ],
+  "image": "images/diagrams/crane-jib.svg",
+  "kind": "diagram",
+  "prompt": "A crowd enters a book fair in Tehran; camera rises smoothly on a crane from the entrance to a wide view of the busy hall; bright diffused daylight, welcoming documentary style. Audio: footsteps and low crowd chatter.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "handheld",
+  "name_fa": "دوربین روی دست",
+  "name_en": "Handheld camera",
+  "keyword": "handheld camera",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "documentary",
+   "short-video"
+  ],
+  "image": "images/diagrams/handheld.svg",
+  "kind": "diagram",
+  "prompt": "A reporter walks through a bazaar in Tabriz and asks a spice seller a question; handheld medium shot moves naturally with the reporter; mixed daylight and shop light, immediate news-documentary style. Audio: market voices and footsteps.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "steadicam-gimbal",
+  "name_fa": "حرکت گیمبال",
+  "name_en": "Steadicam / gimbal move",
+  "keyword": "gimbal tracking shot",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "ads-product",
+   "short-video"
+  ],
+  "image": "images/diagrams/steadicam-gimbal.svg",
+  "kind": "diagram",
+  "prompt": "A visitor walks through a historic garden in Kashan; smooth gimbal camera follows behind and glides past the garden paths; soft morning light, polished travel-film style. Audio: footsteps, birds and fountain water.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "orbit-arc",
+  "name_fa": "حرکت مداری",
+  "name_en": "Orbit / arc shot",
+  "keyword": "orbit shot",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "ads-product",
+   "concept"
+  ],
+  "image": "images/diagrams/orbit-arc.svg",
+  "kind": "diagram",
+  "prompt": "A hand-thrown ceramic vase stands on a low display table; camera makes a slow, complete orbit around the vase; soft studio key light with gentle shadows, refined product-film style. Audio: subtle studio room tone.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "push-in",
+  "name_fa": "پوش‌این",
+  "name_en": "Push-in",
+  "keyword": "push-in",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary"
+  ],
+  "image": "images/diagrams/push-in.svg",
+  "kind": "diagram",
+  "prompt": "An archivist finds a handwritten letter in a box at a Tehran library; camera makes a gentle push toward the letter while the archivist pauses; warm desk lamp and soft window light, restrained documentary style. Audio: paper rustle and quiet room tone.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "pull-back-reveal",
+  "name_fa": "عقب‌کشیدن و آشکارسازی",
+  "name_en": "Pull-back reveal",
+  "keyword": "pull-back reveal",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "branding",
+   "ads-product"
+  ],
+  "image": "images/diagrams/pull-back-reveal.svg",
+  "kind": "diagram",
+  "prompt": "A close view of a cup of Persian tea on a windowsill; camera pulls back to reveal a family gathering around the table; warm natural evening light, heartfelt brand-film style. Audio: gentle conversation and tea glasses.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "whip-pan",
+  "name_fa": "پن سریع",
+  "name_en": "Whip pan",
+  "keyword": "whip pan",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "music-video",
+   "short-video"
+  ],
+  "image": "images/diagrams/whip-pan.svg",
+  "kind": "diagram",
+  "prompt": "A drummer strikes a frame drum in a rehearsal room, then a dancer begins moving; a fast whip pan connects the drummer to the dancer with brief motion blur; colorful side light, rhythmic music-video style. Audio: frame drum rhythm and room ambience.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "dolly-zoom",
+  "name_fa": "دالی زوم",
+  "name_en": "Dolly zoom / vertigo effect",
+  "keyword": "dolly zoom",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "music-video"
+  ],
+  "image": "images/diagrams/dolly-zoom.svg",
+  "kind": "diagram",
+  "prompt": "A student realizes they left a notebook on a bus in downtown Tehran; camera dollies backward as the lens zooms in to create a vertigo effect; cool evening street light, tense thriller style. Audio: traffic and a sharp breath.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "drone-flyover",
+  "name_fa": "پرواز عبوری پهپاد",
+  "name_en": "Drone fly-over",
+  "keyword": "drone flyover",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "documentary",
+   "short-video"
+  ],
+  "image": "images/diagrams/drone-flyover.svg",
+  "kind": "diagram",
+  "prompt": "A narrow river winds through a green Caspian forest; drone camera flies forward above the river and gradually reveals the tree canopy; soft morning mist and natural light, serene nature-documentary style. Audio: river water and birds.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "fpv-drone",
+  "name_fa": "نمای پهپاد FPV",
+  "name_en": "FPV drone shot",
+  "keyword": "FPV drone shot",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "short-video",
+   "music-video"
+  ],
+  "image": "images/diagrams/fpv-drone.svg",
+  "kind": "diagram",
+  "prompt": "A skateboarder rolls through an empty concrete skatepark; FPV drone camera follows low behind and sweeps through a wide turn; bright late-afternoon sunlight, energetic sports-film style. Audio: wheels on concrete and distant voices.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "rack-focus",
+  "name_fa": "جابه‌جایی فوکوس",
+  "name_en": "Rack focus / focus pull",
+  "keyword": "rack focus",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "ads-product"
+  ],
+  "image": "images/diagrams/rack-focus.svg",
+  "kind": "diagram",
+  "prompt": "A florist arranges a white flower beside a glass vase in a shop; camera shifts focus from the flower in the foreground to the florist behind it; soft window light, intimate cinematic style. Audio: paper wrapping and quiet shop ambience.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "crash-zoom",
+  "name_fa": "زوم ناگهانی",
+  "name_en": "Crash zoom",
+  "keyword": "crash zoom",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "short-video",
+   "film"
+  ],
+  "image": "images/diagrams/crash-zoom.svg",
+  "kind": "diagram",
+  "prompt": "A tea seller notices a cat reaching for a sugar cube at a bazaar stall; camera makes a sudden crash zoom from the seller to the cat; bright natural market light, playful comedy style. Audio: market ambience and a surprised laugh.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "tracking-shot",
+  "name_fa": "نمای تعقیبی",
+  "name_en": "Tracking shot",
+  "keyword": "tracking shot",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "documentary"
+  ],
+  "image": "images/diagrams/tracking-shot.svg",
+  "kind": "diagram",
+  "prompt": "A student carries a stack of books through a university corridor; camera tracks smoothly beside the student in one continuous movement; soft daylight from tall windows, naturalistic film style. Audio: footsteps and quiet hallway ambience.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "one-take-oner",
+  "name_fa": "برداشت پیوسته",
+  "name_en": "One-take / oner",
+  "keyword": "one-take shot",
+  "family": "camera-movement",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "music-video"
+  ],
+  "image": "images/diagrams/one-take-oner.svg",
+  "kind": "diagram",
+  "prompt": "A singer walks from a backstage corridor onto a small stage and begins singing; one continuous camera take follows without cuts; warm practical stage lights, intimate performance-film style. Audio: footsteps, audience murmur and the first sung note.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "wide-angle-lens",
+  "name_fa": "لنز واید",
+  "name_en": "Wide-angle lens",
+  "keyword": "wide-angle lens",
+  "family": "lens-film",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "documentary",
+   "film"
+  ],
+  "image": "images/styles/wide-angle-lens.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "telephoto-compression",
+  "name_fa": "فشردگی تله‌فوتو",
+  "name_en": "Telephoto compression",
+  "keyword": "telephoto compression",
+  "family": "lens-film",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "documentary",
+   "film"
+  ],
+  "image": "images/styles/telephoto-compression.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "anamorphic-lens",
+  "name_fa": "لنز آنامورفیک",
+  "name_en": "Anamorphic lens",
+  "keyword": "anamorphic lens",
+  "family": "lens-film",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "music-video"
+  ],
+  "image": "images/styles/anamorphic-lens.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "macro-lens",
+  "name_fa": "لنز ماکرو",
+  "name_en": "Macro lens",
+  "keyword": "macro lens",
+  "family": "lens-film",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "ads-product",
+   "documentary"
+  ],
+  "image": "images/styles/macro-lens.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "fisheye-lens",
+  "name_fa": "لنز فیش‌آی",
+  "name_en": "Fisheye lens",
+  "keyword": "fisheye lens",
+  "family": "lens-film",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "music-video",
+   "short-video"
+  ],
+  "image": "images/styles/fisheye-lens.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "shallow-depth-of-field",
+  "name_fa": "عمق میدان کم",
+  "name_en": "Shallow depth of field / bokeh",
+  "keyword": "shallow depth of field",
+  "family": "lens-film",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "ads-product",
+   "film"
+  ],
+  "image": "images/styles/shallow-depth-of-field.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "16mm-film-look",
+  "name_fa": "نمای فیلم ۱۶ میلی‌متری",
+  "name_en": "16mm film look",
+  "keyword": "16mm film look",
+  "family": "lens-film",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "documentary",
+   "film"
+  ],
+  "image": "images/styles/16mm-film-look.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "35mm-film-look",
+  "name_fa": "نمای فیلم ۳۵ میلی‌متری",
+  "name_en": "35mm film look",
+  "keyword": "35mm film look",
+  "family": "lens-film",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "branding"
+  ],
+  "image": "images/styles/35mm-film-look.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "super-8-film-look",
+  "name_fa": "نمای سوپر ۸",
+  "name_en": "Super 8 film look",
+  "keyword": "Super 8 film look",
+  "family": "lens-film",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "short-video",
+   "film"
+  ],
+  "image": "images/styles/super-8-film-look.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "vhs-camcorder-look",
+  "name_fa": "نمای دوربین وی‌اچ‌اس",
+  "name_en": "VHS / camcorder look",
+  "keyword": "VHS camcorder look",
+  "family": "lens-film",
+  "form": [
+   "photo",
+   "motion"
+  ],
+  "needs": [
+   "short-video",
+   "film"
+  ],
+  "image": "images/styles/vhs-camcorder-look.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "slow-motion-high-frame-rate",
+  "name_fa": "حرکت آهسته",
+  "name_en": "Slow motion / high frame rate",
+  "keyword": "slow motion",
+  "family": "lens-film",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "short-video",
+   "ads-product"
+  ],
+  "image": "images/styles/slow-motion-high-frame-rate.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "timelapse",
+  "name_fa": "تایم‌لپس",
+  "name_en": "Timelapse",
+  "keyword": "time-lapse",
+  "family": "lens-film",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "documentary",
+   "short-video"
+  ],
+  "image": "images/styles/timelapse.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "hyperlapse",
+  "name_fa": "هایپرلپس",
+  "name_en": "Hyperlapse",
+  "keyword": "hyperlapse",
+  "family": "lens-film",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "documentary",
+   "short-video"
+  ],
+  "image": "images/styles/hyperlapse.webp",
+  "kind": "ai"
+ },
+ {
+  "id": "film-noir",
+  "name_fa": "فیلم نوآر",
+  "name_en": "Film noir",
+  "keyword": "film noir",
+  "family": "cinematic-look",
+  "form": [
+   "motion",
+   "light-color"
+  ],
+  "needs": [
+   "film",
+   "music-video"
+  ],
+  "image": "images/styles/film-noir.webp",
+  "kind": "ai",
+  "prompt": "A lone investigator walks through a rain-soaked alley in Tehran at night; slow tracking shot from behind; hard pools of streetlamp light and deep shadows, black-and-white film noir style. Audio: rain, distant traffic and footsteps.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "neo-noir",
+  "name_fa": "نئو نوآر",
+  "name_en": "Neo-noir",
+  "keyword": "neo-noir",
+  "family": "cinematic-look",
+  "form": [
+   "motion",
+   "light-color"
+  ],
+  "needs": [
+   "film",
+   "music-video"
+  ],
+  "image": "images/styles/neo-noir.webp",
+  "kind": "ai",
+  "prompt": "A taxi driver waits at a late-night intersection in Tehran; slow camera push toward the windshield; reflections of red and blue neon, deep shadows, modern neo-noir style. Audio: rain on glass and distant city traffic.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "teal-and-orange-blockbuster",
+  "name_fa": "پالت فیروزه‌ای و نارنجی",
+  "name_en": "Teal and orange blockbuster grade",
+  "keyword": "teal and orange color grade",
+  "family": "cinematic-look",
+  "form": [
+   "motion",
+   "light-color"
+  ],
+  "needs": [
+   "film",
+   "short-video"
+  ],
+  "image": "images/styles/teal-and-orange-blockbuster.webp",
+  "kind": "ai",
+  "prompt": "A rescue team runs across a rocky shoreline toward a stranded boat; dynamic tracking shot; teal shadows and warm orange highlights, polished blockbuster color grade. Audio: waves, wind and urgent footsteps.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "symmetrical-pastel-comedy",
+  "name_fa": "کمدی متقارن پاستلی",
+  "name_en": "Symmetrical pastel storybook comedy",
+  "keyword": "symmetrical pastel storybook comedy",
+  "family": "cinematic-look",
+  "form": [
+   "motion",
+   "light-color"
+  ],
+  "needs": [
+   "film",
+   "short-video"
+  ],
+  "image": "images/styles/symmetrical-pastel-comedy.webp",
+  "kind": "ai",
+  "prompt": "A librarian carefully returns a stack of books while a mischievous cat rearranges them; centered, symmetrical medium shot with a gentle locked camera; pastel colors and soft even light, whimsical storybook-comedy style. Audio: pages rustling and a quiet meow.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "documentary-verite",
+  "name_fa": "مستند وریته",
+  "name_en": "Documentary vérité",
+  "keyword": "documentary vérité",
+  "family": "cinematic-look",
+  "form": [
+   "motion",
+   "light-color"
+  ],
+  "needs": [
+   "documentary",
+   "film"
+  ],
+  "image": "images/styles/documentary-verite.webp",
+  "kind": "ai",
+  "prompt": "A fruit seller opens the shop at dawn in a neighborhood market; handheld camera observes without interrupting; available morning light and natural colors, vérité documentary style. Audio: rolling shop shutter, footsteps and street ambience.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "music-video",
+  "name_fa": "سبک موزیک‌ویدئو",
+  "name_en": "Music video look",
+  "keyword": "music video style",
+  "family": "cinematic-look",
+  "form": [
+   "motion",
+   "light-color"
+  ],
+  "needs": [
+   "music-video",
+   "short-video"
+  ],
+  "image": "images/styles/music-video.webp",
+  "kind": "ai",
+  "prompt": "A singer performs beside a tiled courtyard pool in Isfahan; camera moves in a rhythmic arc around the performer; saturated colored lights with soft shadows, expressive music-video style. Audio: original instrumental music and courtyard ambience.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "commercial-product-spin",
+  "name_fa": "چرخش تبلیغاتی محصول",
+  "name_en": "Commercial product spin",
+  "keyword": "studio product commercial",
+  "family": "cinematic-look",
+  "form": [
+   "motion",
+   "light-color"
+  ],
+  "needs": [
+   "ads-product",
+   "branding"
+  ],
+  "image": "images/styles/commercial-product-spin.webp",
+  "kind": "ai",
+  "prompt": "A handcrafted copper tea kettle rotates slowly on a dark studio turntable; camera holds a clean centered product shot; controlled softbox highlights and crisp reflections, premium commercial style. Audio: subtle mechanical turntable hum.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "nature-documentary",
+  "name_fa": "سبک مستند طبیعت",
+  "name_en": "Nature documentary look",
+  "keyword": "nature documentary style",
+  "family": "cinematic-look",
+  "form": [
+   "motion",
+   "light-color"
+  ],
+  "needs": [
+   "documentary",
+   "explainer"
+  ],
+  "image": "images/styles/nature-documentary.webp",
+  "kind": "ai",
+  "prompt": "A hoopoe searches for insects among grasses in a Caspian forest clearing; low camera follows the bird at a respectful distance; dappled natural morning light, detailed nature-documentary style. Audio: birdsong, leaves and soft wind.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "found-footage",
+  "name_fa": "فوتیج یافته",
+  "name_en": "Found footage look",
+  "keyword": "found footage style",
+  "family": "cinematic-look",
+  "form": [
+   "motion",
+   "light-color"
+  ],
+  "needs": [
+   "film",
+   "short-video"
+  ],
+  "image": "images/styles/found-footage.webp",
+  "kind": "ai",
+  "prompt": "A student explores an empty school hallway after class and hears a door close; shaky handheld camcorder follows from behind; dim fluorescent light and rough home-video texture, found-footage mystery style. Audio: footsteps, room tone and a distant door.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "80s-sitcom",
+  "name_fa": "کمدی موقعیت دههٔ ۱۹۸۰",
+  "name_en": "1980s sitcom look",
+  "keyword": "1980s sitcom style",
+  "family": "cinematic-look",
+  "form": [
+   "motion",
+   "light-color"
+  ],
+  "needs": [
+   "film",
+   "short-video"
+  ],
+  "image": "images/styles/80s-sitcom.webp",
+  "kind": "ai",
+  "prompt": "Two roommates argue playfully over the last piece of cake in a modest Tehran apartment; locked-off wide shot with a simple studio-camera feel; warm even television lighting, cheerful 1980s sitcom style. Audio: dialogue, light audience laughter and room tone.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "italian-neorealism",
+  "name_fa": "نئورئالیسم ایتالیایی",
+  "name_en": "Italian neorealism-inspired naturalism",
+  "keyword": "Italian neorealism",
+  "family": "cinematic-look",
+  "form": [
+   "motion",
+   "light-color"
+  ],
+  "needs": [
+   "film",
+   "documentary"
+  ],
+  "image": "images/styles/italian-neorealism.webp",
+  "kind": "ai",
+  "prompt": "A young delivery worker cycles home through a working-class neighborhood after a long shift; camera follows at street level; available dusk light, restrained naturalistic Italian neorealist style. Audio: bicycle chain, traffic and evening street sounds.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "2d-cel-animation",
+  "name_fa": "انیمیشن سل دوبعدی",
+  "name_en": "2D cel animation",
+  "keyword": "2D cel animation",
+  "family": "animation",
+  "form": [
+   "motion",
+   "drawing"
+  ],
+  "needs": [
+   "children",
+   "explainer"
+  ],
+  "image": "images/styles/2d-cel-animation.webp",
+  "kind": "ai",
+  "prompt": "A small blue bird carries a seed across a garden and plants it beside a wall; gentle side-follow camera; bright morning light, hand-drawn 2D cel animation with ink outlines and flat colors. Audio: birdsong and soft footsteps.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "anime-inspired-animation",
+  "name_fa": "انیمیشن انیمه‌ای",
+  "name_en": "Anime-inspired animation",
+  "keyword": "anime-inspired animation",
+  "family": "animation",
+  "form": [
+   "motion",
+   "drawing"
+  ],
+  "needs": [
+   "short-video",
+   "music-video"
+  ],
+  "image": "images/styles/anime-inspired-animation.webp",
+  "kind": "ai",
+  "prompt": "A young cyclist races up a hill to catch the last light over the city; dynamic low-angle tracking camera; glowing sunset and bold colors, anime-inspired animation with expressive linework. Audio: bicycle wheels, wind and uplifting instrumental music.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "watercolor-storybook-backgrounds",
+  "name_fa": "پس‌زمینهٔ آبرنگی داستانی",
+  "name_en": "Watercolor storybook animation",
+  "keyword": "watercolor storybook backgrounds",
+  "family": "animation",
+  "form": [
+   "motion",
+   "drawing"
+  ],
+  "needs": [
+   "children",
+   "short-video"
+  ],
+  "image": "images/styles/watercolor-storybook-backgrounds.webp",
+  "kind": "ai",
+  "prompt": "A paper boat drifts along a stream through a painted garden; slow camera follows the boat; soft morning light, watercolor storybook animation with visible paper texture and gentle washes. Audio: flowing water and birds.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "stop-motion",
+  "name_fa": "استاپ‌موشن",
+  "name_en": "Stop-motion animation",
+  "keyword": "stop-motion animation",
+  "family": "animation",
+  "form": [
+   "motion",
+   "craft"
+  ],
+  "needs": [
+   "children",
+   "short-video"
+  ],
+  "image": "images/styles/stop-motion.webp",
+  "kind": "ai",
+  "prompt": "A tiny paper gardener plants a seed in a small pot and waters it; locked-off close camera; warm tabletop light, handmade stop-motion animation with deliberate frame-by-frame movement. Audio: paper rustles and a few drops of water.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "claymation",
+  "name_fa": "انیمیشن خمیری",
+  "name_en": "Claymation",
+  "keyword": "claymation",
+  "family": "animation",
+  "form": [
+   "motion",
+   "craft"
+  ],
+  "needs": [
+   "children",
+   "short-video"
+  ],
+  "image": "images/styles/claymation.webp",
+  "kind": "ai",
+  "prompt": "A cheerful clay cat rolls a ball of yarn across a miniature living room; low camera follows the ball; soft warm studio light, tactile claymation with handmade plasticine figures. Audio: gentle room tone and a soft yarn bounce.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "cutout-paper-animation",
+  "name_fa": "انیمیشن کاغذبری",
+  "name_en": "Cut-out / paper animation",
+  "keyword": "cut-out paper animation",
+  "family": "animation",
+  "form": [
+   "motion",
+   "craft"
+  ],
+  "needs": [
+   "explainer",
+   "children"
+  ],
+  "image": "images/styles/cutout-paper-animation.webp",
+  "kind": "ai",
+  "prompt": "Layered paper shapes show how a seed grows into a flower in a small garden; camera holds a straight-on view as the pieces move in sequence; bright even light, flat cut-out paper collage animation. Audio: light paper movement and soft garden ambience.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "rotoscope",
+  "name_fa": "روتوسکوپی",
+  "name_en": "Rotoscope animation",
+  "keyword": "rotoscope animation",
+  "family": "animation",
+  "form": [
+   "motion",
+   "drawing"
+  ],
+  "needs": [
+   "music-video",
+   "film"
+  ],
+  "image": "images/styles/rotoscope.webp",
+  "kind": "ai",
+  "prompt": "A dancer turns and crosses a sunlit rooftop in Tehran; camera tracks the full-body movement; warm late-afternoon light, rotoscope animation with hand-painted contours over lifelike motion. Audio: rhythmic instrumental music and rooftop wind.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "motion-graphics",
+  "name_fa": "موشن‌گرافیک",
+  "name_en": "Motion graphics",
+  "keyword": "motion graphics",
+  "family": "animation",
+  "form": [
+   "motion",
+   "layout"
+  ],
+  "needs": [
+   "explainer",
+   "social"
+  ],
+  "image": "images/styles/motion-graphics.webp",
+  "kind": "ai",
+  "prompt": "Animated icons explain how to separate household waste into recycling bins; camera stays in a clean straight-on graphic view; bright high-contrast colors and even light, concise motion-graphics style. Audio: calm narration and soft transition sounds.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "stylized-3d-animation",
+  "name_fa": "انیمیشن سه‌بعدی استیلیزه",
+  "name_en": "Stylized 3D animation",
+  "keyword": "stylized 3D animation",
+  "family": "animation",
+  "form": [
+   "motion",
+   "3d"
+  ],
+  "needs": [
+   "children",
+   "explainer"
+  ],
+  "image": "images/styles/stylized-3d-animation.webp",
+  "kind": "ai",
+  "prompt": "A small 3D fox follows a paper kite through a flower garden; camera glides beside the fox; soft golden daylight and rounded forms, expressive stylized 3D animation. Audio: birdsong and gentle instrumental music.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "match-cut",
+  "name_fa": "کات تطبیقی",
+  "name_en": "Match cut",
+  "keyword": "match cut",
+  "family": "editing",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "short-video"
+  ],
+  "image": "images/diagrams/match-cut.svg",
+  "kind": "diagram",
+  "prompt": "A round tea glass spins on a table, then cuts on its shape to the full moon above a rooftop; steady close camera before and after the cut; soft evening light, poetic match-cut editing. Audio: glass clink followed by quiet night ambience.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "jump-cut",
+  "name_fa": "جامپ‌کات",
+  "name_en": "Jump cut",
+  "keyword": "jump cut editing",
+  "family": "editing",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "short-video",
+   "explainer"
+  ],
+  "image": "images/diagrams/jump-cut.svg",
+  "kind": "diagram",
+  "prompt": "A student organizes a cluttered desk, with each jump cut skipping ahead as books and notes fall into place; fixed camera and unchanged framing; clean window light, brisk tutorial editing. Audio: paper sounds and concise room tone.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "montage",
+  "name_fa": "مونتاژ",
+  "name_en": "Montage",
+  "keyword": "montage sequence",
+  "family": "editing",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "short-video",
+   "branding"
+  ],
+  "image": "images/diagrams/montage.svg",
+  "kind": "diagram",
+  "prompt": "A ceramic bowl takes shape from wet clay to finished glaze through a sequence of brief process shots; varied close and medium camera views; warm workshop light, rhythmic craft montage. Audio: pottery wheel, tools and a soft instrumental bed.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "speed-ramp",
+  "name_fa": "تغییر سرعت",
+  "name_en": "Speed ramp",
+  "keyword": "speed ramp",
+  "family": "editing",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "music-video",
+   "short-video"
+  ],
+  "image": "images/diagrams/speed-ramp.svg",
+  "kind": "diagram",
+  "prompt": "A runner starts down a city stairway and leaps onto the sidewalk; camera tracks beside the runner as the footage shifts from slow motion to real time and back; crisp daylight, energetic speed-ramp edit. Audio: footsteps, a breath and a rising music beat.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "ambient-sound-cue",
+  "name_fa": "نشانهٔ صدای محیط",
+  "name_en": "Ambient sound cue",
+  "keyword": "ambient sound cue",
+  "family": "editing",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "documentary",
+   "film"
+  ],
+  "image": "images/diagrams/ambient-sound-cue.svg",
+  "kind": "diagram",
+  "prompt": "An empty covered bazaar passage slowly fills with morning light as a shopkeeper opens a door; static wide shot; soft dawn light, quiet observational film style. Audio: distant footsteps, a rolling shutter and the natural room tone of the bazaar.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "dialogue-syntax",
+  "name_fa": "قالب دیالوگ",
+  "name_en": "Dialogue syntax",
+  "keyword": "dialogue-led scene",
+  "family": "editing",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "film",
+   "short-video"
+  ],
+  "image": "images/diagrams/dialogue-syntax.svg",
+  "kind": "diagram",
+  "prompt": "A bookseller recommends a novel to a customer at a small Tehran bookshop; steady two-shot with a gentle cut to each speaker; warm window light, naturalistic dialogue scene. Audio: Dialogue: Bookseller: \"This one is set by the Caspian Sea.\" Customer: \"I will take it.\"",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ },
+ {
+  "id": "single-beat-pacing",
+  "name_fa": "ریتم تک‌کنشی",
+  "name_en": "Single-beat pacing",
+  "keyword": "single-beat pacing",
+  "family": "editing",
+  "form": [
+   "motion"
+  ],
+  "needs": [
+   "short-video",
+   "explainer"
+  ],
+  "image": "images/diagrams/single-beat-pacing.svg",
+  "kind": "diagram",
+  "prompt": "A student notices a fallen leaf on a notebook and places it between the pages; one clear action in a single continuous close shot; soft daylight, calm micro-story style. Audio: leaf rustle and quiet room tone.",
+  "note_fa": "در هر نما فقط یک حرکت یا کنش اصلی را نگه دارید."
+ }
+]

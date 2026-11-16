@@ -1,2 +1,15 @@
-# glassory-of-design
-Glassory of Design: a Persian-first visual directory of 337 styles for AI image and video prompts
+# Glassory of Design · میز نور سبک‌ها
+
+دایرکتوری فارسی و جمعی **۳۳۷ سبک تصویری** برای نوشتن پرامپت تصویر و ویدئو با هوش مصنوعی: جنبش‌های هنری، پوستر، تایپوگرافی، گرافیک و رابط، عکاسی، نور، رنگ، ماده، نما و حرکت دوربین، انیمیشن، و سنت‌های تصویری ایرانی (نگارگری، خوشنویسی، کاشی، فرش، پوستر تهران).
+
+هر سبک = یک تصویر نمونه + نام فارسی + کلیدواژهٔ انگلیسی قابل کپی (+ پرامپت نمونه برای پوستر، تایپوگرافی و ویدئو).
+
+- سایت: `https://alirezach.github.io/glassory-of-design/`
+- داده: `data/styles.json` · دسته‌بندی: `data/taxonomy.json` (خانواده، فرم، نیاز)
+- تصویرها: `images/styles/*.webp` (ساخته‌شده با GPT Image، سند تاریخی سبک نیستند) و `images/diagrams/*.svg` (نمودار متحرک حرکت دوربین)
+
+## مشارکت
+Issue با عنوان «پیشنهاد سبک» باز کنید یا `data/styles.json` را ویرایش کنید. هر مدخل: `id, name_fa, name_en, keyword, family, form[], needs[], image` و در صورت نیاز `prompt`. نام هنرمند زنده را کلیدواژه نکنید. تصویر باید ساختهٔ خودتان یا با مجوز آزاد باشد.
+
+## مجوز
+محتوا: CC BY-SA 4.0 · کد: MIT
