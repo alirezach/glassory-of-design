@@ -87,7 +87,7 @@
       <div class="meta"><span>${TAX.family[s.family].fa}</span>${(s.needs || []).map(n => `<span>${TAX.needs[n]}</span>`).join("")}</div>
       <h3>نام سبک برای پرامپت</h3><button type="button" class="kwc big"><span>${s.keyword}</span><i>کپی</i></button>
       <p class="hint">مثال: <span class="en">a poster for a book fair, in ${s.keyword} style</span></p>
-      ${s.prompt ? `<h3>پرامپت نمونه</h3><div class="prompt">${s.prompt}<button type="button" class="copy">کپی پرامپت</button></div>${s.note_fa ? `<p class="hint">${s.note_fa}</p>` : ""}` : ""}
+      ${s.credit ? `<p class="hint">تصویر نمونه از <a href="${s.credit_url}" target="_blank" rel="noopener">${s.credit}</a></p>` : ""}${s.prompt ? `<h3>پرامپت نمونه</h3><div class="prompt">${s.prompt}<button type="button" class="copy">کپی پرامپت</button></div>${s.note_fa ? `<p class="hint">${s.note_fa}</p>` : ""}` : ""}
       <div class="row"><button type="button" class="chip" id="dlg-pick">${st.picked.has(s.id) ? "حذف از میز پرامپت" : "افزودن به میز پرامپت"}</button><button type="button" class="chip" id="dlg-link">کپی پیوند</button></div></div>`;
     $(".close", dlg).onclick = () => dlg.close();
     $(".kwc", dlg).onclick = () => copy(s.keyword, `«${s.keyword}» کپی شد`);

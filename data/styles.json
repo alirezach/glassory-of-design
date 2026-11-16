@@ -2341,6 +2341,48 @@
   "region": "world"
  },
  {
+  "id": "luxury-typography",
+  "name_fa": "تایپوگرافی لوکس",
+  "name_en": "Luxury typography",
+  "keyword": "luxury serif typography",
+  "family": "typography",
+  "form": [
+   "lettering",
+   "layout"
+  ],
+  "needs": [
+   "branding",
+   "packaging",
+   "ads-product"
+  ],
+  "image": "images/styles/luxury-typography.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "type-collage",
+  "name_fa": "کلاژ حروف",
+  "name_en": "Type collage",
+  "keyword": "type collage",
+  "family": "typography",
+  "form": [
+   "lettering",
+   "craft"
+  ],
+  "needs": [
+   "poster",
+   "editorial",
+   "social"
+  ],
+  "image": "images/styles/type-collage.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
   "id": "mid-century-modern",
   "name_fa": "مدرنِ میانهٔ قرن",
   "name_en": "Mid-Century Modern",
@@ -2947,6 +2989,210 @@
   "region": "world"
  },
  {
+  "id": "aurora-gradient",
+  "name_fa": "سبک شفق قطبی (گرادیان شفقی)",
+  "name_en": "Aurora",
+  "keyword": "aurora gradient aesthetic",
+  "family": "graphic-design",
+  "form": [
+   "light-color"
+  ],
+  "needs": [
+   "ui-web",
+   "branding",
+   "social"
+  ],
+  "image": "images/styles/aurora-gradient.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "filigree",
+  "name_fa": "ملیله‌کاری تزئینی (فیلیگری)",
+  "name_en": "Filigree",
+  "keyword": "filigree ornament",
+  "family": "graphic-design",
+  "form": [
+   "pattern",
+   "drawing"
+  ],
+  "needs": [
+   "packaging",
+   "branding",
+   "editorial"
+  ],
+  "image": "images/styles/filigree.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "acanthus",
+  "name_fa": "نقش برگ کنگر (آکانتوس)",
+  "name_en": "Acanthus",
+  "keyword": "acanthus leaf ornament",
+  "family": "graphic-design",
+  "form": [
+   "pattern"
+  ],
+  "needs": [
+   "packaging",
+   "branding",
+   "editorial"
+  ],
+  "image": "images/styles/acanthus.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "japandi",
+  "name_fa": "ژاپندی",
+  "name_en": "Japandi",
+  "keyword": "Japandi style",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "light-color"
+  ],
+  "needs": [
+   "branding",
+   "ui-web",
+   "ads-product"
+  ],
+  "image": "images/styles/japandi.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "bohemian-boho",
+  "name_fa": "بوهمین (بوهو)",
+  "name_en": "Bohemian (boho)",
+  "keyword": "boho style",
+  "family": "graphic-design",
+  "form": [
+   "pattern",
+   "drawing"
+  ],
+  "needs": [
+   "branding",
+   "social",
+   "packaging"
+  ],
+  "image": "images/styles/bohemian-boho.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "shabby-chic",
+  "name_fa": "شبی‌شیک",
+  "name_en": "Shabby chic",
+  "keyword": "shabby chic",
+  "family": "graphic-design",
+  "form": [
+   "pattern",
+   "light-color"
+  ],
+  "needs": [
+   "packaging",
+   "branding"
+  ],
+  "image": "images/styles/shabby-chic.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "victorian-ornamental",
+  "name_fa": "طراحی ویکتوریایی",
+  "name_en": "Victorian design",
+  "keyword": "Victorian ornamental design",
+  "family": "graphic-design",
+  "form": [
+   "pattern",
+   "lettering"
+  ],
+  "needs": [
+   "packaging",
+   "book-cover",
+   "branding"
+  ],
+  "image": "images/styles/victorian-ornamental.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "gothic-design",
+  "name_fa": "طراحی گوتیک",
+  "name_en": "Gothic",
+  "keyword": "gothic design",
+  "family": "graphic-design",
+  "form": [
+   "lettering",
+   "pattern"
+  ],
+  "needs": [
+   "album",
+   "book-cover",
+   "poster"
+  ],
+  "image": "images/styles/gothic-design.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "biomorphic",
+  "name_fa": "زیست‌ریخت (بایومورفیک)",
+  "name_en": "Biomorphic",
+  "keyword": "biomorphic shapes",
+  "family": "graphic-design",
+  "form": [
+   "layout"
+  ],
+  "needs": [
+   "branding",
+   "ui-web",
+   "poster"
+  ],
+  "image": "images/styles/biomorphic.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "grid-3x3",
+  "name_fa": "چیدمان شبکهٔ سه‌درسه",
+  "name_en": "3×3 grid design",
+  "keyword": "3x3 grid layout",
+  "family": "graphic-design",
+  "form": [
+   "layout"
+  ],
+  "needs": [
+   "social",
+   "ads-product"
+  ],
+  "image": "images/styles/grid-3x3.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
   "id": "70s-groovy",
   "name_fa": "گرووی دههٔ هفتاد",
   "name_en": "70s Groovy",
@@ -3401,6 +3647,186 @@
   "image": "images/styles/chibi-kawaii.webp",
   "kind": "ai",
   "region": "world"
+ },
+ {
+  "id": "anthropomorphic",
+  "name_fa": "انسان‌وارسازی اشیا و حیوانات",
+  "name_en": "Anthropomorphic",
+  "keyword": "anthropomorphic character",
+  "family": "illustration",
+  "form": [
+   "drawing"
+  ],
+  "needs": [
+   "children",
+   "branding",
+   "social"
+  ],
+  "image": "images/styles/anthropomorphic.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "conceptual-sketch-doodle",
+  "name_fa": "طرح مفهومی و دودل",
+  "name_en": "Conceptual sketch / doodle",
+  "keyword": "doodle art",
+  "family": "illustration",
+  "form": [
+   "drawing"
+  ],
+  "needs": [
+   "concept",
+   "social",
+   "editorial"
+  ],
+  "image": "images/styles/conceptual-sketch-doodle.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "mystical-western",
+  "name_fa": "وسترن عرفانی",
+  "name_en": "Mystical Western",
+  "keyword": "mystical western",
+  "family": "illustration",
+  "form": [
+   "drawing",
+   "pattern"
+  ],
+  "needs": [
+   "album",
+   "branding",
+   "social"
+  ],
+  "image": "images/styles/mystical-western.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "romantasy",
+  "name_fa": "رمانتزی",
+  "name_en": "Romantasy",
+  "keyword": "romantasy book cover",
+  "family": "illustration",
+  "form": [
+   "painting"
+  ],
+  "needs": [
+   "book-cover",
+   "social"
+  ],
+  "image": "images/styles/romantasy.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "concept-art",
+  "name_fa": "کانسپت‌آرت",
+  "name_en": "Concept art",
+  "keyword": "concept art",
+  "family": "illustration",
+  "form": [
+   "painting"
+  ],
+  "needs": [
+   "concept",
+   "film",
+   "moodboard"
+  ],
+  "image": "images/styles/concept-art.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@DreamCk · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+ },
+ {
+  "id": "high-fantasy",
+  "name_fa": "فانتزی حماسی",
+  "name_en": "High fantasy",
+  "keyword": "high fantasy",
+  "family": "illustration",
+  "form": [
+   "painting"
+  ],
+  "needs": [
+   "book-cover",
+   "concept",
+   "film"
+  ],
+  "image": "images/styles/high-fantasy.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@VelvetS · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+ },
+ {
+  "id": "dark-fantasy",
+  "name_fa": "فانتزی تاریک",
+  "name_en": "Dark fantasy",
+  "keyword": "dark fantasy",
+  "family": "illustration",
+  "form": [
+   "painting"
+  ],
+  "needs": [
+   "book-cover",
+   "album",
+   "concept"
+  ],
+  "image": "images/styles/dark-fantasy.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@serget2 · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+ },
+ {
+  "id": "fairy-tale",
+  "name_fa": "قصهٔ پریان",
+  "name_en": "Fairy tale",
+  "keyword": "fairy tale illustration",
+  "family": "illustration",
+  "form": [
+   "painting",
+   "drawing"
+  ],
+  "needs": [
+   "children",
+   "book-cover"
+  ],
+  "image": "images/styles/fairy-tale.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@BeeZ333 · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+ },
+ {
+  "id": "space-opera",
+  "name_fa": "اپرای فضایی",
+  "name_en": "Space opera",
+  "keyword": "space opera",
+  "family": "illustration",
+  "form": [
+   "painting"
+  ],
+  "needs": [
+   "book-cover",
+   "film",
+   "concept"
+  ],
+  "image": "images/styles/space-opera.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@Stu42 · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
  },
  {
   "id": "italian-futurism",
@@ -4274,6 +4700,48 @@
   "region": "world"
  },
  {
+  "id": "neoclassical",
+  "name_fa": "نئوکلاسیک",
+  "name_en": "Neoclassical",
+  "keyword": "neoclassical design",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "layout"
+  ],
+  "needs": [
+   "branding",
+   "editorial",
+   "book-cover"
+  ],
+  "image": "images/styles/neoclassical.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "tenebrism",
+  "name_fa": "تنبریسم (تاریک‌نمایی)",
+  "name_en": "Tenebrism",
+  "keyword": "tenebrism",
+  "family": "art-movement",
+  "form": [
+   "painting",
+   "light-color"
+  ],
+  "needs": [
+   "book-cover",
+   "poster",
+   "film"
+  ],
+  "image": "images/styles/tenebrism.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
   "id": "stencil",
   "name_fa": "استنسیل",
   "name_en": "Stencil",
@@ -4536,6 +5004,46 @@
   "image": "images/styles/pen-and-ink.webp",
   "kind": "ai",
   "region": "world"
+ },
+ {
+  "id": "mixed-media",
+  "name_fa": "ترکیب رسانه‌ها (میکسد مدیا)",
+  "name_en": "Mixed media",
+  "keyword": "mixed media collage",
+  "family": "medium",
+  "form": [
+   "craft",
+   "layout"
+  ],
+  "needs": [
+   "editorial",
+   "poster",
+   "social"
+  ],
+  "image": "images/styles/mixed-media.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "pencil-sketch",
+  "name_fa": "طراحی با مداد",
+  "name_en": "Pencil sketch",
+  "keyword": "pencil sketch",
+  "family": "medium",
+  "form": [
+   "drawing"
+  ],
+  "needs": [
+   "concept",
+   "editorial"
+  ],
+  "image": "images/styles/pencil-sketch.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@SAN0 · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
  },
  {
   "id": "vaporwave",
@@ -5032,6 +5540,127 @@
   "region": "world"
  },
  {
+  "id": "ethereal",
+  "name_fa": "اثیری",
+  "name_en": "Ethereal",
+  "keyword": "ethereal aesthetic",
+  "family": "digital-aesthetic",
+  "form": [
+   "light-color",
+   "painting"
+  ],
+  "needs": [
+   "social",
+   "moodboard",
+   "branding"
+  ],
+  "image": "images/styles/ethereal.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "kitsch",
+  "name_fa": "کیچ",
+  "name_en": "Kitsch",
+  "keyword": "kitsch aesthetic",
+  "family": "digital-aesthetic",
+  "form": [
+   "layout"
+  ],
+  "needs": [
+   "social",
+   "ads-product",
+   "editorial"
+  ],
+  "image": "images/styles/kitsch.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "coquette",
+  "name_fa": "کوکت",
+  "name_en": "Coquette",
+  "keyword": "coquette aesthetic",
+  "family": "digital-aesthetic",
+  "form": [
+   "pattern",
+   "light-color"
+  ],
+  "needs": [
+   "social",
+   "branding",
+   "packaging"
+  ],
+  "image": "images/styles/coquette.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "future-medieval",
+  "name_fa": "قرون‌وسطای آینده‌نگر",
+  "name_en": "Future medieval",
+  "keyword": "future medieval",
+  "family": "digital-aesthetic",
+  "form": [
+   "drawing",
+   "pattern"
+  ],
+  "needs": [
+   "album",
+   "branding",
+   "poster"
+  ],
+  "image": "images/styles/future-medieval.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "kidcore",
+  "name_fa": "کیدکور",
+  "name_en": "Kidcore",
+  "keyword": "kidcore aesthetic",
+  "family": "digital-aesthetic",
+  "form": [
+   "layout"
+  ],
+  "needs": [
+   "social",
+   "children"
+  ],
+  "image": "images/styles/kidcore.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
+  "id": "trinket",
+  "name_fa": "خرده‌ریزه‌ها (ترینکت)",
+  "name_en": "Trinket",
+  "keyword": "trinket aesthetic",
+  "family": "digital-aesthetic",
+  "form": [
+   "craft"
+  ],
+  "needs": [
+   "social",
+   "moodboard"
+  ],
+  "image": "images/styles/trinket.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
   "id": "low-poly-3d",
   "name_fa": "سه‌بعدی کم‌پلیگان",
   "name_en": "Low-Poly 3D",
@@ -5143,6 +5772,47 @@
   "image": "images/styles/miniature-diorama.webp",
   "kind": "ai",
   "region": "world"
+ },
+ {
+  "id": "plush-toy",
+  "name_fa": "عروسک پولیشی",
+  "name_en": "Plush toy",
+  "keyword": "plush toy",
+  "family": "3d-render",
+  "form": [
+   "3d",
+   "craft"
+  ],
+  "needs": [
+   "children",
+   "ads-product",
+   "social"
+  ],
+  "image": "images/styles/plush-toy.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@Kayot · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+ },
+ {
+  "id": "glass-and-chrome",
+  "name_fa": "شیشه و کروم",
+  "name_en": "Glass and chrome",
+  "keyword": "glass and chrome render",
+  "family": "3d-render",
+  "form": [
+   "3d"
+  ],
+  "needs": [
+   "ads-product",
+   "branding",
+   "ui-web"
+  ],
+  "image": "images/styles/glass-and-chrome.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@Artikuz_Ai · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
  },
  {
   "id": "quilling",
@@ -5695,6 +6365,26 @@
   "region": "world"
  },
  {
+  "id": "chinoiserie",
+  "name_fa": "شینوازری",
+  "name_en": "Chinoiserie",
+  "keyword": "chinoiserie",
+  "family": "craft-material",
+  "form": [
+   "pattern",
+   "painting"
+  ],
+  "needs": [
+   "packaging",
+   "branding"
+  ],
+  "image": "images/styles/chinoiserie.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "Kittl",
+  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+ },
+ {
   "id": "bokeh-photography",
   "name_fa": "عکاسی بوکه",
   "name_en": "Bokeh photography",
@@ -6165,6 +6855,145 @@
   "image": "images/styles/national-geographic-travel-photo.webp",
   "kind": "ai",
   "region": "world"
+ },
+ {
+  "id": "natural-photo",
+  "name_fa": "عکس طبیعی و بی‌تکلف",
+  "name_en": "Natural photo",
+  "keyword": "natural candid photo",
+  "family": "photography",
+  "form": [
+   "photo"
+  ],
+  "needs": [
+   "social",
+   "documentary"
+  ],
+  "image": "images/styles/natural-photo.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@homoludens · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+ },
+ {
+  "id": "landscape-photography",
+  "name_fa": "عکاسی منظره",
+  "name_en": "Landscape photography",
+  "keyword": "landscape photography",
+  "family": "photography",
+  "form": [
+   "photo"
+  ],
+  "needs": [
+   "editorial",
+   "moodboard",
+   "documentary"
+  ],
+  "image": "images/styles/landscape-photography.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@leimaxiu252537 · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+ },
+ {
+  "id": "black-and-white-photography",
+  "name_fa": "عکاسی سیاه‌وسفید",
+  "name_en": "Black and white photography",
+  "keyword": "black and white photography",
+  "family": "photography",
+  "form": [
+   "photo",
+   "light-color"
+  ],
+  "needs": [
+   "editorial",
+   "documentary",
+   "poster"
+  ],
+  "image": "images/styles/black-and-white-photography.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@Guinwen · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+ },
+ {
+  "id": "film-still",
+  "name_fa": "فریم فیلم (فیلم‌استیل)",
+  "name_en": "Film still",
+  "keyword": "cinematic film still",
+  "family": "photography",
+  "form": [
+   "photo"
+  ],
+  "needs": [
+   "film",
+   "moodboard",
+   "concept"
+  ],
+  "image": "images/styles/film-still.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@Ajuro · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+ },
+ {
+  "id": "architectural-photography",
+  "name_fa": "عکاسی معماری",
+  "name_en": "Architectural photography",
+  "keyword": "architectural photography",
+  "family": "photography",
+  "form": [
+   "photo"
+  ],
+  "needs": [
+   "editorial",
+   "ads-product"
+  ],
+  "image": "images/styles/architectural-photography.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@expert78 · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+ },
+ {
+  "id": "interior-design",
+  "name_fa": "عکس طراحی داخلی",
+  "name_en": "Interior design",
+  "keyword": "interior design photo",
+  "family": "photography",
+  "form": [
+   "photo"
+  ],
+  "needs": [
+   "ads-product",
+   "moodboard",
+   "editorial"
+  ],
+  "image": "images/styles/interior-design.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@sincity · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+ },
+ {
+  "id": "brutalist-architecture",
+  "name_fa": "معماری بروتالیستی",
+  "name_en": "Brutalist architecture",
+  "keyword": "brutalist architecture",
+  "family": "photography",
+  "form": [
+   "photo"
+  ],
+  "needs": [
+   "editorial",
+   "concept",
+   "moodboard"
+  ],
+  "image": "images/styles/brutalist-architecture.webp",
+  "kind": "source",
+  "region": "world",
+  "credit": "@nedix · aigallery.app",
+  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
  },
  {
   "id": "studio-lighting",
