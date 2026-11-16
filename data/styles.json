@@ -2356,10 +2356,8 @@
    "ads-product"
   ],
   "image": "images/styles/luxury-typography.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "type-collage",
@@ -2377,10 +2375,8 @@
    "social"
   ],
   "image": "images/styles/type-collage.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "mid-century-modern",
@@ -3003,10 +2999,8 @@
    "social"
   ],
   "image": "images/styles/aurora-gradient.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "filigree",
@@ -3024,10 +3018,8 @@
    "editorial"
   ],
   "image": "images/styles/filigree.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "acanthus",
@@ -3044,10 +3036,8 @@
    "editorial"
   ],
   "image": "images/styles/acanthus.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "japandi",
@@ -3065,10 +3055,8 @@
    "ads-product"
   ],
   "image": "images/styles/japandi.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "bohemian-boho",
@@ -3086,10 +3074,8 @@
    "packaging"
   ],
   "image": "images/styles/bohemian-boho.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "shabby-chic",
@@ -3106,10 +3092,8 @@
    "branding"
   ],
   "image": "images/styles/shabby-chic.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "victorian-ornamental",
@@ -3127,10 +3111,8 @@
    "branding"
   ],
   "image": "images/styles/victorian-ornamental.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "gothic-design",
@@ -3148,10 +3130,8 @@
    "poster"
   ],
   "image": "images/styles/gothic-design.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "biomorphic",
@@ -3168,10 +3148,8 @@
    "poster"
   ],
   "image": "images/styles/biomorphic.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "grid-3x3",
@@ -3187,10 +3165,29 @@
    "ads-product"
   ],
   "image": "images/styles/grid-3x3.webp",
-  "kind": "source",
+  "kind": "ai",
+  "region": "world"
+ },
+ {
+  "id": "saul-bass-titles",
+  "name_fa": "تیتراژ سال باس",
+  "name_en": "Saul Bass titles",
+  "keyword": "Saul Bass title sequence style",
+  "family": "graphic-design",
+  "form": [
+   "layout",
+   "craft"
+  ],
+  "needs": [
+   "poster",
+   "film",
+   "book-cover"
+  ],
+  "image": "images/styles/saul-bass-titles.webp",
+  "kind": "ai",
   "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "prompt": "Poster for a jazz thriller film in Saul Bass title-sequence style: torn and cut-paper geometry with slightly ragged edges, one symbolic shape carrying the whole idea, condensed sans in solid blocks, two or three flat colors on a plain field, exact title \"THE LONG NIGHT\".",
+  "note_fa": "یک نماد واحد و دو سه رنگ تخت کافی است؛ عنوان را کوتاه بنویسید."
  },
  {
   "id": "70s-groovy",
@@ -3663,10 +3660,8 @@
    "social"
   ],
   "image": "images/styles/anthropomorphic.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "conceptual-sketch-doodle",
@@ -3683,10 +3678,8 @@
    "editorial"
   ],
   "image": "images/styles/conceptual-sketch-doodle.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "mystical-western",
@@ -3704,10 +3697,8 @@
    "social"
   ],
   "image": "images/styles/mystical-western.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "romantasy",
@@ -3723,10 +3714,8 @@
    "social"
   ],
   "image": "images/styles/romantasy.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "concept-art",
@@ -3743,10 +3732,8 @@
    "moodboard"
   ],
   "image": "images/styles/concept-art.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@DreamCk · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "high-fantasy",
@@ -3763,10 +3750,8 @@
    "film"
   ],
   "image": "images/styles/high-fantasy.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@VelvetS · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "dark-fantasy",
@@ -3783,10 +3768,8 @@
    "concept"
   ],
   "image": "images/styles/dark-fantasy.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@serget2 · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "fairy-tale",
@@ -3803,10 +3786,8 @@
    "book-cover"
   ],
   "image": "images/styles/fairy-tale.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@BeeZ333 · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "space-opera",
@@ -3823,10 +3804,8 @@
    "concept"
   ],
   "image": "images/styles/space-opera.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@Stu42 · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "italian-futurism",
@@ -4715,10 +4694,8 @@
    "book-cover"
   ],
   "image": "images/styles/neoclassical.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "tenebrism",
@@ -4736,10 +4713,8 @@
    "film"
   ],
   "image": "images/styles/tenebrism.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "stencil",
@@ -5021,10 +4996,8 @@
    "social"
   ],
   "image": "images/styles/mixed-media.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "pencil-sketch",
@@ -5040,10 +5013,8 @@
    "editorial"
   ],
   "image": "images/styles/pencil-sketch.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@SAN0 · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "vaporwave",
@@ -5555,10 +5526,8 @@
    "branding"
   ],
   "image": "images/styles/ethereal.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "kitsch",
@@ -5575,10 +5544,8 @@
    "editorial"
   ],
   "image": "images/styles/kitsch.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "coquette",
@@ -5596,10 +5563,8 @@
    "packaging"
   ],
   "image": "images/styles/coquette.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "future-medieval",
@@ -5617,10 +5582,8 @@
    "poster"
   ],
   "image": "images/styles/future-medieval.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "kidcore",
@@ -5636,10 +5599,8 @@
    "children"
   ],
   "image": "images/styles/kidcore.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "trinket",
@@ -5655,10 +5616,8 @@
    "moodboard"
   ],
   "image": "images/styles/trinket.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "low-poly-3d",
@@ -5789,10 +5748,8 @@
    "social"
   ],
   "image": "images/styles/plush-toy.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@Kayot · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "glass-and-chrome",
@@ -5809,10 +5766,8 @@
    "ui-web"
   ],
   "image": "images/styles/glass-and-chrome.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@Artikuz_Ai · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "quilling",
@@ -6379,10 +6334,8 @@
    "branding"
   ],
   "image": "images/styles/chinoiserie.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "Kittl",
-  "credit_url": "https://www.kittl.com/blogs/design-styles-name-stl/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "bokeh-photography",
@@ -6870,10 +6823,8 @@
    "documentary"
   ],
   "image": "images/styles/natural-photo.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@homoludens · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "landscape-photography",
@@ -6890,10 +6841,8 @@
    "documentary"
   ],
   "image": "images/styles/landscape-photography.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@leimaxiu252537 · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "black-and-white-photography",
@@ -6911,10 +6860,8 @@
    "poster"
   ],
   "image": "images/styles/black-and-white-photography.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@Guinwen · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "film-still",
@@ -6931,10 +6878,8 @@
    "concept"
   ],
   "image": "images/styles/film-still.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@Ajuro · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "architectural-photography",
@@ -6950,10 +6895,8 @@
    "ads-product"
   ],
   "image": "images/styles/architectural-photography.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@expert78 · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "interior-design",
@@ -6970,10 +6913,8 @@
    "editorial"
   ],
   "image": "images/styles/interior-design.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@sincity · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "brutalist-architecture",
@@ -6990,10 +6931,8 @@
    "moodboard"
   ],
   "image": "images/styles/brutalist-architecture.webp",
-  "kind": "source",
-  "region": "world",
-  "credit": "@nedix · aigallery.app",
-  "credit_url": "https://aigallery.app/guides/ai-art-styles-guide/"
+  "kind": "ai",
+  "region": "world"
  },
  {
   "id": "studio-lighting",
