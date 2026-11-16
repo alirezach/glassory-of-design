@@ -7,7 +7,7 @@
     .replace(/[يى]/g, "ی").replace(/ك/g, "ک").replace(/ة/g, "ه").replace(/[أإآ]/g, "ا").replace(/ؤ/g, "و")
     .replace(/[\u064B-\u065F\u0670\u0640]/g, "").replace(/\u200c/g, " ")
     .replace(/[۰-۹]/g, d => FA.indexOf(d)).replace(/[-_/()،,]/g, " ").replace(/\s+/g, " ").trim();
-  const st = { q: "", f: { family: new Set(), form: new Set(), needs: new Set() }, picked: new Set() };
+  const st = { q: "", f: { region: new Set(), family: new Set(), form: new Set(), needs: new Set() }, picked: new Set() };
   let DATA = [], TAX = {}, byId = {};
   const toast = m => { const t = $("#toast"); t.textContent = m; t.classList.add("on"); clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove("on"), 1500); };
   const copy = async (txt, m) => { try { await navigator.clipboard.writeText(txt); } catch { const a = document.createElement("textarea"); a.value = txt; document.body.append(a); a.select(); document.execCommand("copy"); a.remove(); } toast(m || "کپی شد"); };
@@ -30,7 +30,7 @@
   }
   function tab(id) { $$("nav.tabs button").forEach(b => b.setAttribute("aria-selected", b.dataset.tab === id)); $$("main > section").forEach(s => s.hidden = s.id !== id); }
   function url() { const p = new URLSearchParams(); if (st.q) p.set("q", st.q); for (const [k, v] of Object.entries(st.f)) if (v.size) p.set(k, [...v].join(",")); history.replaceState(null, "", (p.toString() ? "?" + p : location.pathname) + location.hash); }
-  const defs = [["family", "خانواده", s => [s.family], () => Object.fromEntries(Object.entries(TAX.family).map(([k, v]) => [k, v.fa]))], ["form", "فرم", s => s.form || [], () => TAX.form], ["needs", "نیاز و کاربرد", s => s.needs || [], () => TAX.needs]];
+  const defs = [["region", "خاستگاه", s => [s.region], () => TAX.region], ["family", "خانواده", s => [s.family], () => Object.fromEntries(Object.entries(TAX.family).map(([k, v]) => [k, v.fa]))], ["form", "فرم", s => s.form || [], () => TAX.form], ["needs", "نیاز و کاربرد", s => s.needs || [], () => TAX.needs]];
   const match = (s, skip) => {
     if (st.q && !norm(st.q).split(" ").every(t => s._h.includes(t))) return false;
     for (const [k, , get] of defs) if (k !== skip && st.f[k].size && !get(s).some(v => st.f[k].has(v))) return false;
