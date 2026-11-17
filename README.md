@@ -4,7 +4,7 @@
 
 هر سبک = یک تصویر نمونه + نام فارسی + کلیدواژهٔ انگلیسی قابل کپی (+ پرامپت نمونه برای پوستر، تایپوگرافی و ویدئو).
 
-- سایت: `https://alirezach.github.io/glassory-of-design/`
+- سایت: `https://alirezach.github.io/glossary-of-design/`
 - داده: `data/styles.json` · دسته‌بندی: `data/taxonomy.json` (خانواده، فرم، نیاز)
 - تصویرها: `images/styles/*.webp` (ساخته‌شده با GPT Image، سند تاریخی سبک نیستند) و `images/diagrams/*.svg` (نمودار متحرک حرکت دوربین)
 
