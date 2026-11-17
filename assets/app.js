@@ -13,8 +13,8 @@
   const copy = async (txt, m) => { try { await navigator.clipboard.writeText(txt); } catch { const a = document.createElement("textarea"); a.value = txt; document.body.append(a); a.select(); document.execCommand("copy"); a.remove(); } toast(m || "کپی شد"); };
 
   async function boot() {
-    [DATA, TAX] = await Promise.all([fetch("data/styles.json").then(r => r.json()), fetch("data/taxonomy.json").then(r => r.json())]);
-    RECIPES = await fetch("data/recipes.json").then(r => r.ok ? r.json() : []).catch(() => []);
+    [DATA, TAX] = await Promise.all([fetch("data/styles.json?v=20261117b").then(r => r.json()), fetch("data/taxonomy.json?v=20261117b").then(r => r.json())]);
+    RECIPES = await fetch("data/recipes.json?v=20261117b").then(r => r.ok ? r.json() : []).catch(() => []);
     DATA.forEach((s, i) => { byId[s.id] = s; s._n = i + 1; s._h = norm([s.name_fa, s.name_en, s.keyword, TAX.family[s.family]?.fa, ...(s.needs || []).map(n => TAX.needs[n]), ...(s.form || []).map(f => TAX.form[f])].join(" ")); });
     $("#count").textContent = faNum(DATA.length);
     const p = new URLSearchParams(location.search);
