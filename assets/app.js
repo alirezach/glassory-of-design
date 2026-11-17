@@ -1,4 +1,4 @@
-/* Glassory of Design: image + name + copy. No build step. */
+/* Glossary of Design: image + name + copy. No build step. */
 (() => {
   const $ = (s, el = document) => el.querySelector(s);
   const $$ = (s, el = document) => [...el.querySelectorAll(s)];
