@@ -17,6 +17,7 @@
 </header>
 <nav class="tabs" role="tablist">
  <button data-tab="dir" aria-selected="true">سبک‌ها</button>
+ <button data-tab="recipes" aria-selected="false">ترکیب‌های آماده</button>
  <button data-tab="guide" aria-selected="false">فرمول پرامپت</button>
  <button data-tab="sources" aria-selected="false">منابع</button>
  <button data-tab="contribute" aria-selected="false">مشارکت</button>
@@ -25,6 +26,11 @@
 <section id="dir">
  <div class="searchbar"><label class="sr" for="q">جست‌وجو</label><input id="q" type="search" placeholder="جست‌وجو: ریزوگراف، نستعلیق، dolly، پوستر، کتاب کودک…  (کلید /)" autocomplete="off"><span class="result-note" id="rn"></span></div>
  <div class="dir"><aside class="facets" id="facets"></aside><div id="bands"></div></div>
+</section>
+<section id="recipes" class="page" hidden>
+ <h2>ترکیب‌های آماده</h2>
+ <p class="lead">ترکیب‌های دو یا سه‌سبکی برای کاربردهای رایج. پرامپت کامل را کپی کنید، یا آن را در «پرامپت‌ساز» باز کنید و سوژه را عوض کنید.</p>
+ <div class="recipes" id="recipe-list"></div>
 </section>
 <section id="guide" class="page" hidden>
  <h2>فرمول پرامپت</h2>
@@ -60,7 +66,7 @@ Audio: [ambience, sound effects]. Dialogue: [Speaker]: [short line]</pre>
 </section>
 </main>
 <dialog id="dlg"><div id="dlg-inner"></div></dialog>
-<div class="tray" id="tray"><span class="label">میز پرامپت</span>
+<div class="tray" id="tray"><span class="label">پرامپت‌ساز</span>
  <div><div class="picked-list" id="tray-list"></div><div class="en" id="tray-preview" style="font-size:13px;opacity:.8;margin-top:4px"></div></div>
  <div class="row" style="margin:0"><input id="subject" placeholder="سوژه را بنویسید (انگلیسی بهتر است)"><button type="button" id="tray-copy">کپی پرامپت</button><button type="button" class="ghost" id="tray-clear">پاک کن</button></div></div>
 <div class="toast" id="toast" role="status"></div>
